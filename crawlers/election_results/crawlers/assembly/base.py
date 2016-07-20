@@ -26,24 +26,37 @@ class BaseCrawler(object):
 	def parse_proportional(self, url, city_name=None): #지금 이건 비례대표만 해당하는 거임 ㅇㅇㅇㅇㅇ
 		elems = get_xpath(url, '//td')
 		th_list = get_xpath(url, '//th')
-		max_candidate_num = int(th_list[3].attrib['colspan']) - 1
-		num_tds = length(th_list) + max_candidate_num
+		for i in range(int(len(th_list))):
+			if th_list[i].get('colspan') != None:
+				num_ths_left = i
+				max_candidate_num = int(th_list[i].get('colspan')) - 1
+				break
 
-		party_name_list = th_list[6:(6+max_candidate_num)] #element: <th><strong>한나라당</strong></th>
 		consti_list = []
 		candidate_num = max_candidate_num
 
-		for i in range(int(len(elems) / num_tds)):
-			district = elems[i*num_tds]#.text # 여기 저장되는 district 이름은 '전체'(첫 줄)+기초자치단체명임 ㅇㅇ
-			electorates = elems[i*num_tds + 1]#.text
-			counted_vote = elems[i*num_tds + 2]#.text
+		if th_list[0].get('rowspan') != None:
+			party_name_list = th_list[6:(6+max_candidate_num)] #element: <th><strong>한나라당</strong></th>
+			td_head = 0
+			num_tds = 6 + max_candidate_num #저 6의 확장일반화 방법은 없는가. 
+		else:
+			party_name_list = elems[num_ths_left:(num_ths_left+max_candidate_num)] #for n=20. element: <td><strong>한나라당</strong></td>
+			td_head = 1
+			num_tds = len(th_list) + max_candidate_num
 
-			votes_num_percent = elems[i*num_tds + 3 : i*num_tds + 3+candidate_num] #element: <td>1,940,259<br>(42.28)</td>
+		for i in range(int(len(elems) / num_tds)):
+			index = i + td_head
+
+			district = elems[index*num_tds]#.text # 여기 저장되는 district 이름은 '전체'(첫 줄)+기초자치단체명임 ㅇㅇ
+			electorates = elems[index*num_tds + 1]#.text
+			counted_vote = elems[index*num_tds + 2]#.text
+
+			votes_num_percent = elems[index*num_tds + num_ths_left : index*num_tds + num_ths_left+candidate_num] #element: <td>1,940,259<br>(42.28)</td>
 			cand_list = list(map(lambda x, y: dict(list(zip(self.attrs_result, [x, y]))), party_name_list, votes_num_percent)) #('name': <th><strong>한나라당</strong></th>, 'vote': <td>1,940,259<br>(42.28)</td>)
 
-			valid_vote = elems[i*num_tds + 3+max_candidate_num+0]#.text
-			undervote = elems[i*num_tds + 3+max_candidate_num+1]#.text
-			blank_ballot = elems[i*num_tds + 3+max_candidate_num+2]#.text
+			valid_vote = elems[index*num_tds + num_ths_left + max_candidate_num+0]#.text
+			undervote = elems[index*num_tds + num_ths_left + max_candidate_num+1]#.text
+			blank_ballot = elems[index*num_tds + num_ths_left + max_candidate_num+2]#.text
 
 			district_info = (district, electorates, counted_vote, candidate_num, cand_list, valid_vote, undervote, blank_ballot)
 			district_info = dict(list(zip(self.attrs_district, district_info)))
@@ -61,29 +74,38 @@ class BaseCrawler(object):
 	def parse_constituency(self, url, city_name=None): #지금 이건 지역구만 해당하는 거임 ㅇㅇㅇㅇㅇ
 		elems = get_xpath(url, '//td')
 		th_list = get_xpath(url, '//th')
-		max_candidate_num = int(th_list[3].attrib['colspan']) - 1
-		num_tds = length(th_list) + max_candidate_num
+		for i in range(int(len(th_list))):
+			if th_list[i].get('colspan') != None:
+				num_ths_left = i
+				max_candidate_num = int(th_list[i].get('colspan')) - 1
+				break
+		num_tds = len(th_list) + max_candidate_num
 
 		consti_list = []
 
 		for i in range(int(len(elems) / num_tds)):
 			if elems[i*num_tds + 1].text == None: # 선거인수 칸이 blank인 줄을 찾으면, 그 칸 아래가 실득표수이므로...
 				candidate_num = 0
-				for j in range(max_candidate_num):
-					if (elems[i*num_tds + j + 3].findtext('strong') != None) and (elems[i*num_tds + j + 3].text != '계'):
-						candidate_num = candidate_num+1
+				name_party_name = []
+				votes_num_percent = []
 
 				district = elems[i*num_tds]#.text # 여기 저장되는 district 이름은 선거구 단위의 기초자치단체명임 ㅇㅇ
 				electorates = elems[(i+1)*num_tds + 1]#.text
 				counted_vote = elems[(i+1)*num_tds + 2]#.text
 
-				name_party_name = elems[i*num_tds + 3 : i*num_tds + 3+candidate_num] #element: <td><strong>한나라당<br>김광영</strong></td>
-				votes_num_percent = elems[(i+1)*num_tds + 3 : (i+1)*num_tds + 3+candidate_num] #element: <td>3,050<br>(4.09)</td>
-				cand_list = list(map(lambda x, y: dict(list(zip(self.attrs_result, [x, y]))), name_party_name, votes_num_percent)) #('name': <td><strong>한나라당<br>김광영</strong></td>, 'vote': <td>3,050<br>(4.09)</td>)
+				for j in range(max_candidate_num):
+					index = i*num_tds + num_ths_left + j
+					if (elems[index].findtext('strong') != None) and (elems[index].text != '계'):
+						candidate_num = candidate_num+1
+						name_party_name.append(elems[index]) #element: <td><strong>한나라당<br>김광영</strong></td>
+						votes_num_percent.append(elems[index + num_tds]) #element: <td>3,050<br>(4.09)</td>
+					print(votes_num_percent[0].text)
 
-				valid_vote = elems[i*num_tds + 3+max_candidate_num+0]#.text
-				undervote = elems[(i+1)*num_tds + 3+max_candidate_num+1]#.text
-				blank_ballot = elems[(i+1)*num_tds + 3+max_candidate_num+2]#.text
+					cand_list = list(map(lambda x, y: dict(list(zip(self.attrs_result, [x, y]))), name_party_name, votes_num_percent)) #('name': <td><strong>한나라당<br>김광영</strong></td>, 'vote': <td>3,050<br>(4.09)</td>)
+
+				valid_vote = elems[(i+1)*num_tds + num_ths_left + max_candidate_num+0]#.text
+				undervote = elems[(i+1)*num_tds + num_ths_left + max_candidate_num+1]#.text
+				blank_ballot = elems[(i+1)*num_tds + num_ths_left + max_candidate_num+2]#.text
 
 				district_info = (district, electorates, counted_vote, candidate_num, cand_list, valid_vote, undervote, blank_ballot)
 				district_info = dict(list(zip(self.attrs_district, district_info)))
