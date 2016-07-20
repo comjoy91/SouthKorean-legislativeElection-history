@@ -27,7 +27,7 @@ class BaseCrawler(object):
 		elems = get_xpath(url, '//td')
 		th_list = get_xpath(url, '//th')
 		max_candidate_num = int(th_list[3].attrib['colspan']) - 1
-		num_tds = 5 + (max_candidate_num + 1)
+		num_tds = length(th_list) + max_candidate_num
 
 		party_name_list = th_list[6:(6+max_candidate_num)] #element: <th><strong>한나라당</strong></th>
 		consti_list = []
@@ -62,7 +62,7 @@ class BaseCrawler(object):
 		elems = get_xpath(url, '//td')
 		th_list = get_xpath(url, '//th')
 		max_candidate_num = int(th_list[3].attrib['colspan']) - 1
-		num_tds = 5 + (max_candidate_num + 1) # + len(th_list)
+		num_tds = length(th_list) + max_candidate_num
 
 		consti_list = []
 
@@ -71,7 +71,7 @@ class BaseCrawler(object):
 				candidate_num = 0
 				for j in range(max_candidate_num):
 					if (elems[i*num_tds + j + 3].findtext('strong') != None) and (elems[i*num_tds + j + 3].text != '계'):
-						candidate_num = j
+						candidate_num = candidate_num+1
 
 				district = elems[i*num_tds]#.text # 여기 저장되는 district 이름은 선거구 단위의 기초자치단체명임 ㅇㅇ
 				electorates = elems[(i+1)*num_tds + 1]#.text
