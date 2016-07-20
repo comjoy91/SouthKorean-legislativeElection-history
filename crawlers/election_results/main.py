@@ -150,7 +150,7 @@ def main(args):
                             filename=filename, printer=printer)
 
 
-    print(('Data written to %s') % filename)
+    print('Data written to %s' % filename)
 
 if __name__ == '__main__':
     monkey.patch_all()

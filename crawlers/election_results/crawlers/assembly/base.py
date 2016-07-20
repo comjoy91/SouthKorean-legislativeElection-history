@@ -25,7 +25,7 @@ class BaseCrawler(object):
 
 	def parse_proportional(self, url, city_name=None): #지금 이건 비례대표만 해당하는 거임 ㅇㅇㅇㅇㅇ
 		elems = get_xpath(url, '//td')
-		th_list = get_xpath(url, '//th') #'//th[@colspan]') #url로 바꿀것.
+		th_list = get_xpath(url, '//th')
 		max_candidate_num = int(th_list[3].attrib['colspan']) - 1
 		num_tds = 5 + (max_candidate_num + 1)
 
@@ -48,7 +48,7 @@ class BaseCrawler(object):
 			district_info = (district, electorates, counted_vote, candidate_num, cand_list, valid_vote, undervote, blank_ballot)
 			district_info = dict(list(zip(self.attrs_district, district_info)))
 
-			#if i==0: print((district_info['result'][0]['name'].find('strong').text))
+			#if i==0: print(district_info['result'][0]['name'].find('strong').text)
 
 			consti_list.append(district_info)
 
@@ -60,7 +60,7 @@ class BaseCrawler(object):
 
 	def parse_constituency(self, url, city_name=None): #지금 이건 지역구만 해당하는 거임 ㅇㅇㅇㅇㅇ
 		elems = get_xpath(url, '//td')
-		th_list = get_xpath(url, '//th') #'//th[@colspan]') #url로 바꿀것.
+		th_list = get_xpath(url, '//th')
 		max_candidate_num = int(th_list[3].attrib['colspan']) - 1
 		num_tds = 5 + (max_candidate_num + 1) # + len(th_list)
 
@@ -90,7 +90,7 @@ class BaseCrawler(object):
 				consti_list.append(district_info)
 
 		consti_list = [self.parse_consti(consti, city_name=city_name) for consti in consti_list]
-		print(('crawled #%d - %s, %s(%d)...' % (self.nth, '지역구', city_name, len(consti_list))))
+		print('crawled #%d - %s, %s(%d)...' % (self.nth, '지역구', city_name, len(consti_list)))
 		return consti_list
 
 
@@ -197,12 +197,16 @@ class MultiCityCrawler(BaseCrawler):
 		# 지역구 대표
 		jobs = []
 		is_proportional = self.is_proportional
+		if is_proportional:
+			voting_system = "proportional"
+		else:
+			voting_system = "constituency"
 		for city_code, city_name in self.city_codes():
 			req_url = self.url_list(city_code)
 			job = gevent.spawn(self.parse, req_url, is_proportional, city_name)
 			jobs.append(job)
 		gevent.joinall(jobs)
-		every_result = flatten(job.get() for job in jobs)
+		every_result = [{'voting_system':voting_system, 'results':flatten(job.get() for job in jobs)}]
 
 		# 비례대표
 		if hasattr(self, 'prop_crawler'):

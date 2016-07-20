@@ -25,7 +25,7 @@ class CountCrawler1719(MultiCityCrawler):
 	_statement_Ids = ['VCCP09_%2390', 'VCCP09_%232', 'VCCP09_%232']
 
 	_url_city_codes_json = 'http://info.nec.go.kr/bizcommon/selectbox/'\
-			'selectbox_cityCodeBySgJson_GuOld.json?electionId=0000000000'\
+			'selectbox_cityCodeBySgJson_Old.json?electionId=0000000000'\
 			'&subElectionCode=2&electionCode='
 
 	_url_list_base = 'http://info.nec.go.kr/electioninfo/'\
