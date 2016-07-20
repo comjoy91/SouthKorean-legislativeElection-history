@@ -42,7 +42,7 @@ def get_xpath(url, xpath):
 
     request = urllib.request.Request(url)
     request.add_header("User-Agent", USER_AGENT)
-    f=urllib.request.urlopen(request)
+    f = urllib.request.urlopen(request, timeout = 100)
 
     page = htmlparser.parse(f)
     return page.xpath(xpath)
