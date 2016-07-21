@@ -132,7 +132,7 @@ class CountCrawler20(MultiCityCrawler):
 	url_list_base = 'http://info.nec.go.kr/electioninfo/'\
 			'electionInfo_report.xhtml?'\
 			'&requestURI=%2FWEB-INF%2Fjsp%2Felectioninfo%2F0020160413%2Fvc%2Fvccp09.jsp'\
-			'&statementId=CPRI03_%232'\
+			'&statementId=VCCP09_%232'\
 			'&sggCityCode=0'\
 			'&electionCode=2'\
 			'&electionId=0020160413&cityCode='
@@ -212,7 +212,7 @@ class CountCrawler20Proportional(MultiCityCrawler):
 	url_list_base = 'http://info.nec.go.kr/electioninfo/'\
 			'electionInfo_report.xhtml?'\
 			'&requestURI=%2FWEB-INF%2Fjsp%2Felectioninfo%2F0020160413%2Fvc%2Fvccp09.jsp'\
-			'&statementId=CPRI03_%232'\
+			'&statementId=VCCP09_%237'\
 			'&sggCityCode=0'\
 			'&electionCode=7'\
 			'&electionId=0020160413&cityCode='

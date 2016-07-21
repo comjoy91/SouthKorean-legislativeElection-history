@@ -32,19 +32,22 @@ class BaseCrawler(object):
 				max_candidate_num = int(th_list[i].get('colspan')) - 1
 				break
 
+		if th_list[0].get('rowspan') != None: #nth!=20
+			party_name_list = th_list[6:(6+max_candidate_num)] #element: <th><strong>한나라당</strong></th>
+			td_head = 0
+			num_tds = 6 + max_candidate_num #저 6의 확장일반화 방법은 없는가.
+			num_rows = int(len(elems) / num_tds)
+		else: #nth == 20
+			max_candidate_num = max_candidate_num + 1
+			party_name_list = elems[num_ths_left:(num_ths_left+max_candidate_num)] #for n=20. element: <td><strong>한나라당</strong></td>
+			td_head = 1
+			num_tds = len(th_list) + max_candidate_num - 1
+			num_rows = int(len(elems) / num_tds) - 1
+
 		consti_list = []
 		candidate_num = max_candidate_num
 
-		if th_list[0].get('rowspan') != None:
-			party_name_list = th_list[6:(6+max_candidate_num)] #element: <th><strong>한나라당</strong></th>
-			td_head = 0
-			num_tds = 6 + max_candidate_num #저 6의 확장일반화 방법은 없는가. 
-		else:
-			party_name_list = elems[num_ths_left:(num_ths_left+max_candidate_num)] #for n=20. element: <td><strong>한나라당</strong></td>
-			td_head = 1
-			num_tds = len(th_list) + max_candidate_num
-
-		for i in range(int(len(elems) / num_tds)):
+		for i in range(num_rows):
 			index = i + td_head
 
 			district = elems[index*num_tds]#.text # 여기 저장되는 district 이름은 '전체'(첫 줄)+기초자치단체명임 ㅇㅇ
@@ -90,16 +93,17 @@ class BaseCrawler(object):
 				votes_num_percent = []
 
 				district = elems[i*num_tds]#.text # 여기 저장되는 district 이름은 선거구 단위의 기초자치단체명임 ㅇㅇ
-				electorates = elems[(i+1)*num_tds + 1]#.text
-				counted_vote = elems[(i+1)*num_tds + 2]#.text
+				electorates = elems[(i+1)*num_tds + num_ths_left-2]#.text
+				counted_vote = elems[(i+1)*num_tds + num_ths_left-1]#.text
 
 				for j in range(max_candidate_num):
 					index = i*num_tds + num_ths_left + j
-					if (elems[index].findtext('strong') != None) and (elems[index].text != '계'):
+					if (elems[index].findtext('strong') != None) \
+								and (elems[index].findtext('strong') != '') \
+								and (elems[index].text != '계'):
 						candidate_num = candidate_num+1
 						name_party_name.append(elems[index]) #element: <td><strong>한나라당<br>김광영</strong></td>
 						votes_num_percent.append(elems[index + num_tds]) #element: <td>3,050<br>(4.09)</td>
-					print(votes_num_percent[0].text)
 
 					cand_list = list(map(lambda x, y: dict(list(zip(self.attrs_result, [x, y]))), name_party_name, votes_num_percent)) #('name': <td><strong>한나라당<br>김광영</strong></td>, 'vote': <td>3,050<br>(4.09)</td>)
 
@@ -161,13 +165,19 @@ class BaseCrawler(object):
 	def parse_electorate(self, consti):
 		if 'electorates' not in consti: return
 
-		consti['electorates'] = sanitize(consti['electorates'][0])
+		if type(consti['electorates']) == type([]): #nth != 20
+			consti['electorates'] = sanitize(consti['electorates'][0])
+		else:
+			consti['electorates'] = sanitize(consti['electorates'])
 		consti['electorates'] = consti['electorates'].replace(',', '')
 
 	def parse_counted_votes(self, consti):
 		if 'counted_votes' not in consti: return
 
-		consti['counted_votes'] = sanitize(consti['counted_votes'][0])
+		if type(consti['counted_votes']) == type([]): #nth != 20
+			consti['counted_votes'] = sanitize(consti['counted_votes'][0])
+		else:
+			consti['counted_votes'] = sanitize(consti['counted_votes'])
 		consti['counted_votes'] = consti['counted_votes'].replace(',', '')
 
 	def parse_result(self, consti):

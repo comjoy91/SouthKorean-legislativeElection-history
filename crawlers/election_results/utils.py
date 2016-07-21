@@ -8,8 +8,8 @@ import os
 import re
 import urllib.request, urllib.error, urllib.parse
 
-USER_AGENT = "Mozilla/5.0 (X11; U; Linux x86_64; fr; rv:1.9.1.5) "\
-            "Gecko/20091109 Ubuntu/9.10 (karmic) Firefox/3.5.5"
+USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) "\
+            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
 
 schars_re = re.compile('[/\(\)]')
 ws_re = re.compile('\s')
@@ -42,7 +42,7 @@ def get_xpath(url, xpath):
 
     request = urllib.request.Request(url)
     request.add_header("User-Agent", USER_AGENT)
-    f = urllib.request.urlopen(request, timeout = 100)
+    f = urllib.request.urlopen(request, timeout = 60)
 
     page = htmlparser.parse(f)
     return page.xpath(xpath)

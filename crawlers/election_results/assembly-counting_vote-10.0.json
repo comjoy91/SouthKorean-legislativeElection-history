@@ -1,3301 +1,3763 @@
 [
   {
-    "voting_system": "constituency",
     "results": [
       {
         "counted_votes": "251291",
-        "cand_no": 5,
         "electorates": "352519",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "249165",
         "district": "\uc11c\uc6b8 \uc81c1\uc120\uac70\uad6c",
-        "undervotes": "2126",
-        "blank_ballots": "101228",
         "result": [
           {
-            "votenum": "72715",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ubbfc\uad00\uc2dd",
-            "voterate": "29.18",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "72715",
+            "voterate": "29.18"
           },
           {
-            "votenum": "105983",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc815\ub300\ucca0",
-            "voterate": "42.53",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "105983",
+            "voterate": "42.53"
           },
           {
-            "votenum": "4938",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc720\ud0dd\ud615",
-            "voterate": "1.98",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "4938",
+            "voterate": "1.98"
           },
           {
-            "votenum": "61270",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc624\uc81c\ub3c4",
-            "voterate": "24.59",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "61270",
+            "voterate": "24.59"
           },
           {
-            "votenum": "1943",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ucd5c\ubcd1\ud6c8",
-            "voterate": "0.77",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "1943",
+            "voterate": "0.77"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ud64d\uc21c\ucca0",
+            "votenum": "2316",
+            "voterate": "0.92"
           }
-        ]
+        ],
+        "undervotes": "2126",
+        "blank_ballots": "101228",
+        "cand_no": 6,
+        "assembly_no": 10
       },
       {
         "counted_votes": "330060",
-        "cand_no": 5,
         "electorates": "478759",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "326521",
         "district": "\uc11c\uc6b8 \uc81c2\uc120\uac70\uad6c",
-        "undervotes": "3539",
-        "blank_ballots": "148699",
         "result": [
           {
-            "votenum": "59621",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc774\uc778\uadfc",
-            "voterate": "18.25",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "59621",
+            "voterate": "18.25"
           },
           {
-            "votenum": "166244",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc1a1\uc6d0\uc601",
-            "voterate": "50.91",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "166244",
+            "voterate": "50.91"
           },
           {
-            "votenum": "23542",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc548\uade0\uc12d",
-            "voterate": "7.20",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "23542",
+            "voterate": "7.20"
           },
           {
-            "votenum": "58233",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uac15\uc0c1\uc6b1",
-            "voterate": "17.83",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "58233",
+            "voterate": "17.83"
           },
           {
-            "votenum": "11578",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubc15\ud6c8",
-            "voterate": "3.54",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "11578",
+            "voterate": "3.54"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ud55c\uc0c1\ubb34",
+            "votenum": "7303",
+            "voterate": "2.23"
           }
-        ]
+        ],
+        "undervotes": "3539",
+        "blank_ballots": "148699",
+        "cand_no": 6,
+        "assembly_no": 10
       },
       {
         "counted_votes": "257976",
-        "cand_no": 4,
         "electorates": "375127",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "255574",
         "district": "\uc11c\uc6b8 \uc81c3\uc120\uac70\uad6c",
-        "undervotes": "2439",
-        "blank_ballots": "117151",
         "result": [
           {
-            "votenum": "74564",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ubbfc\ubcd1\uae30",
-            "voterate": "29.17",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "74564",
+            "voterate": "29.17"
           },
           {
-            "votenum": "91589",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uae40\uc81c\ub9cc",
-            "voterate": "35.83",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "91589",
+            "voterate": "35.83"
           },
           {
-            "votenum": "78647",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc591\uc77c\ub3d9",
-            "voterate": "30.77",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "78647",
+            "voterate": "30.77"
           },
           {
-            "votenum": "7235",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uae38\uc6c5",
-            "voterate": "2.83",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "7235",
+            "voterate": "2.83"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uae40\ud765\ub9b0",
+            "votenum": "3539",
+            "voterate": "1.38"
           }
-        ]
+        ],
+        "undervotes": "2439",
+        "blank_ballots": "117151",
+        "cand_no": 5,
+        "assembly_no": 10
       },
       {
         "counted_votes": "241819",
-        "cand_no": 5,
         "electorates": "347983",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "239019",
         "district": "\uc11c\uc6b8 \uc81c4\uc120\uac70\uad6c",
-        "undervotes": "2800",
-        "blank_ballots": "106164",
         "result": [
           {
-            "votenum": "71408",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc815\ub798\ud601",
-            "voterate": "29.87",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "71408",
+            "voterate": "29.87"
           },
           {
-            "votenum": "136016",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc870\uc138\ud615",
-            "voterate": "56.90",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "136016",
+            "voterate": "56.90"
           },
           {
-            "votenum": "12510",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc591\ud0dd\uc601",
-            "voterate": "5.23",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "12510",
+            "voterate": "5.23"
           },
           {
-            "votenum": "3655",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uc218\ucd98",
-            "voterate": "1.52",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "3655",
+            "voterate": "1.52"
           },
           {
-            "votenum": "7030",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc784\ud0dc\ubc31",
-            "voterate": "2.94",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "7030",
+            "voterate": "2.94"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ucd5c\ud638\ud6c8",
+            "votenum": "8400",
+            "voterate": "3.51"
           }
-        ]
+        ],
+        "undervotes": "2800",
+        "blank_ballots": "106164",
+        "cand_no": 6,
+        "assembly_no": 10
       },
       {
         "counted_votes": "280883",
-        "cand_no": 6,
         "electorates": "410722",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "277920",
         "district": "\uc11c\uc6b8 \uc81c5\uc120\uac70\uad6c",
-        "undervotes": "2963",
-        "blank_ballots": "129839",
         "result": [
           {
-            "votenum": "59021",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc2e0\uc624\ucca0",
-            "voterate": "21.23",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "59021",
+            "voterate": "21.23"
           },
           {
-            "votenum": "113566",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uace0\ud765\ubb38",
-            "voterate": "40.86",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "113566",
+            "voterate": "40.86"
           },
           {
-            "votenum": "11858",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc870\ud76c\ucca0",
-            "voterate": "4.26",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "11858",
+            "voterate": "4.26"
           },
           {
-            "votenum": "3057",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubb38\ucc3d\uae30",
-            "voterate": "1.09",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "3057",
+            "voterate": "1.09"
           },
           {
-            "votenum": "14811",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubc15\uacbd\ud76c",
-            "voterate": "5.32",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "14811",
+            "voterate": "5.32"
           },
           {
-            "votenum": "4541",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc784\ucc3d\uc9c4",
-            "voterate": "1.63",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "4541",
+            "voterate": "1.63"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ud64d\uc131\uc6b0",
+            "votenum": "71066",
+            "voterate": "25.57"
           }
-        ]
+        ],
+        "undervotes": "2963",
+        "blank_ballots": "129839",
+        "cand_no": 7,
+        "assembly_no": 10
       },
       {
         "counted_votes": "319226",
-        "cand_no": 5,
         "electorates": "472474",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "315805",
         "district": "\uc11c\uc6b8 \uc81c6\uc120\uac70\uad6c",
-        "undervotes": "3421",
-        "blank_ballots": "153248",
         "result": [
           {
-            "votenum": "91988",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc624\uc720\ubc29",
-            "voterate": "29.12",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "91988",
+            "voterate": "29.12"
           },
           {
-            "votenum": "173243",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uae40\uc7ac\uad11",
-            "voterate": "54.85",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "173243",
+            "voterate": "54.85"
           },
           {
-            "votenum": "23101",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc7a5\uc815\uace4",
-            "voterate": "7.31",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "23101",
+            "voterate": "7.31"
           },
           {
-            "votenum": "5987",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uacfd\uc6a9\uc2dd",
-            "voterate": "1.89",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "5987",
+            "voterate": "1.89"
           },
           {
-            "votenum": "12968",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubbfc\uc2b9",
-            "voterate": "4.10",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "12968",
+            "voterate": "4.10"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc11c\ub300\ub450",
+            "votenum": "8518",
+            "voterate": "2.69"
           }
-        ]
+        ],
+        "undervotes": "3421",
+        "blank_ballots": "153248",
+        "cand_no": 6,
+        "assembly_no": 10
       },
       {
         "counted_votes": "324819",
-        "cand_no": 3,
         "electorates": "465446",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "321257",
         "district": "\uc11c\uc6b8 \uc81c7\uc120\uac70\uad6c",
-        "undervotes": "3562",
-        "blank_ballots": "140627",
         "result": [
           {
-            "votenum": "114444",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ubc15\uacbd\uc6d0",
-            "voterate": "35.62",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "114444",
+            "voterate": "35.62"
           },
           {
-            "votenum": "84207",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uae40\uc6d0\ub9cc",
-            "voterate": "26.21",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "84207",
+            "voterate": "26.21"
           },
           {
-            "votenum": "113924",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ub178\uc2b9\ud658",
-            "voterate": "35.46",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "113924",
+            "voterate": "35.46"
+          },
+          {
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
+            "name_kr": "\uc7a5\uc138\ud658",
+            "votenum": "8682",
+            "voterate": "2.70"
           }
-        ]
+        ],
+        "undervotes": "3562",
+        "blank_ballots": "140627",
+        "cand_no": 4,
+        "assembly_no": 10
       },
       {
         "counted_votes": "352883",
-        "cand_no": 3,
         "electorates": "530037",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "347141",
         "district": "\uc11c\uc6b8 \uc81c8\uc120\uac70\uad6c",
-        "undervotes": "5742",
-        "blank_ballots": "177154",
         "result": [
           {
-            "votenum": "87918",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uac15\ubcd1\uaddc",
-            "voterate": "25.32",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "87918",
+            "voterate": "25.32"
           },
           {
-            "votenum": "187495",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ubc15\ud55c\uc0c1",
-            "voterate": "54.01",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "187495",
+            "voterate": "54.01"
           },
           {
-            "votenum": "57360",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uae40\uc218\uc77c",
-            "voterate": "16.52",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "57360",
+            "voterate": "16.52"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc131\uc9c4\ud658",
+            "votenum": "14368",
+            "voterate": "4.13"
           }
-        ]
+        ],
+        "undervotes": "5742",
+        "blank_ballots": "177154",
+        "cand_no": 4,
+        "assembly_no": 10
       },
       {
         "counted_votes": "349401",
-        "cand_no": 4,
         "electorates": "526456",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "345431",
         "district": "\uc11c\uc6b8 \uc81c9\uc120\uac70\uad6c",
-        "undervotes": "3970",
-        "blank_ballots": "177055",
         "result": [
           {
-            "votenum": "70812",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc815\ud76c\uc12d",
-            "voterate": "20.49",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "70812",
+            "voterate": "20.49"
           },
           {
-            "votenum": "212061",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uae40\uc218\ud55c",
-            "voterate": "61.39",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "212061",
+            "voterate": "61.39"
           },
           {
-            "votenum": "38525",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uacf5\ucc3d\ub355",
-            "voterate": "11.15",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "38525",
+            "voterate": "11.15"
           },
           {
-            "votenum": "12678",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\ubaa9\ud638",
-            "voterate": "3.67",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "12678",
+            "voterate": "3.67"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ub178\uae30\ub9cc",
+            "votenum": "11355",
+            "voterate": "3.28"
           }
-        ]
+        ],
+        "undervotes": "3970",
+        "blank_ballots": "177055",
+        "cand_no": 5,
+        "assembly_no": 10
       },
       {
         "counted_votes": "245951",
-        "cand_no": 4,
         "electorates": "375374",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "243259",
         "district": "\uc11c\uc6b8 \uc81c10\uc120\uac70\uad6c",
-        "undervotes": "2692",
-        "blank_ballots": "129423",
         "result": [
           {
-            "votenum": "71220",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc774\ud0dc\uc12d",
-            "voterate": "29.27",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "71220",
+            "voterate": "29.27"
           },
           {
-            "votenum": "123785",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc815\uc6b4\uac11",
-            "voterate": "50.88",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "123785",
+            "voterate": "50.88"
           },
           {
-            "votenum": "11376",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uacfd\uc778\uc2dd",
-            "voterate": "4.67",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "11376",
+            "voterate": "4.67"
           },
           {
-            "votenum": "8715",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uc885\ubbfc",
-            "voterate": "3.58",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "8715",
+            "voterate": "3.58"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc870\uacbd\ucca0",
+            "votenum": "28163",
+            "voterate": "11.57"
           }
-        ]
+        ],
+        "undervotes": "2692",
+        "blank_ballots": "129423",
+        "cand_no": 5,
+        "assembly_no": 10
       },
       {
         "counted_votes": "159516",
-        "cand_no": 7,
         "electorates": "240062",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "157633",
         "district": "\uc11c\uc6b8 \uc81c11\uc120\uac70\uad6c",
-        "undervotes": "1883",
-        "blank_ballots": "80546",
         "result": [
           {
-            "votenum": "45426",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ub0a8\uc7ac\ud76c",
-            "voterate": "28.81",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "45426",
+            "voterate": "28.81"
           },
           {
-            "votenum": "34707",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uace0\ubcd1\ud604",
-            "voterate": "22.01",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "34707",
+            "voterate": "22.01"
           },
           {
-            "votenum": "35459",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uae40\uc601\ubc30",
-            "voterate": "22.49",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "35459",
+            "voterate": "22.49"
           },
           {
-            "votenum": "8432",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc774\ud0dc\uad6c",
-            "voterate": "5.34",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "8432",
+            "voterate": "5.34"
           },
           {
-            "votenum": "16928",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uac15\uc778\uc560",
-            "voterate": "10.73",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "16928",
+            "voterate": "10.73"
           },
           {
-            "votenum": "7538",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uad8c\uc911\ub3c8",
-            "voterate": "4.78",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "7538",
+            "voterate": "4.78"
           },
           {
-            "votenum": "2748",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ub958\uc628",
-            "voterate": "1.74",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "2748",
+            "voterate": "1.74"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc774\uc885\ud654",
+            "votenum": "6395",
+            "voterate": "4.05"
           }
-        ]
+        ],
+        "undervotes": "1883",
+        "blank_ballots": "80546",
+        "cand_no": 8,
+        "assembly_no": 10
       },
       {
         "counted_votes": "137448",
-        "cand_no": 10,
         "electorates": "177312",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "135985",
         "district": "\ubd80\uc0b0 \uc81c1\uc120\uac70\uad6c",
-        "undervotes": "1463",
-        "blank_ballots": "39864",
         "result": [
           {
-            "votenum": "31560",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ud55c\ub0a8\uc11d",
-            "voterate": "23.20",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "31560",
+            "voterate": "23.20"
           },
           {
-            "votenum": "39261",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uae40\uc0c1\uc9c4",
-            "voterate": "28.87",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "39261",
+            "voterate": "28.87"
           },
           {
-            "votenum": "2053",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc5ec\uc778\ud0dc",
-            "voterate": "1.50",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "2053",
+            "voterate": "1.50"
           },
           {
-            "votenum": "5204",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc790\uc77c",
-            "voterate": "3.82",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "5204",
+            "voterate": "3.82"
           },
           {
-            "votenum": "8284",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc815\uae38",
-            "voterate": "6.09",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "8284",
+            "voterate": "6.09"
           },
           {
-            "votenum": "1459",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubb38\ubb34\uc77c",
-            "voterate": "1.07",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "1459",
+            "voterate": "1.07"
           },
           {
-            "votenum": "1128",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubb38\uc601\ud314",
-            "voterate": "0.82",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "1128",
+            "voterate": "0.82"
           },
           {
-            "votenum": "42421",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc608\ucd98\ud638",
-            "voterate": "31.19",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "42421",
+            "voterate": "31.19"
           },
           {
-            "votenum": "804",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uac11\uc131",
-            "voterate": "0.59",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "804",
+            "voterate": "0.59"
           },
           {
-            "votenum": "1255",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uc0bc\ud55c",
-            "voterate": "0.92",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "1255",
+            "voterate": "0.92"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc774\uc601\ud76c",
+            "votenum": "2556",
+            "voterate": "1.87"
           }
-        ]
+        ],
+        "undervotes": "1463",
+        "blank_ballots": "39864",
+        "cand_no": 11,
+        "assembly_no": 10
       },
       {
         "counted_votes": "259721",
-        "cand_no": 3,
         "electorates": "345954",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "256306",
         "district": "\ubd80\uc0b0 \uc81c2\uc120\uac70\uad6c",
-        "undervotes": "3415",
-        "blank_ballots": "86233",
         "result": [
           {
-            "votenum": "85439",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ubc15\ucc2c\uc885",
-            "voterate": "33.33",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "85439",
+            "voterate": "33.33"
           },
           {
-            "votenum": "137826",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uae40\uc601\uc0bc",
-            "voterate": "53.77",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "137826",
+            "voterate": "53.77"
           },
           {
-            "votenum": "26716",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc774\uc0c1\ucca0",
-            "voterate": "10.42",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "26716",
+            "voterate": "10.42"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc815\ucca0\uc624",
+            "votenum": "6325",
+            "voterate": "2.46"
           }
-        ]
+        ],
+        "undervotes": "3415",
+        "blank_ballots": "86233",
+        "cand_no": 4,
+        "assembly_no": 10
       },
       {
         "counted_votes": "315818",
-        "cand_no": 5,
         "electorates": "415520",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "311379",
         "district": "\ubd80\uc0b0 \uc81c3\uc120\uac70\uad6c",
-        "undervotes": "4439",
-        "blank_ballots": "99702",
         "result": [
           {
-            "votenum": "105213",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uae40\uc784\uc2dd",
-            "voterate": "33.78",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "105213",
+            "voterate": "33.78"
           },
           {
-            "votenum": "119539",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc815\ud574\uc601",
-            "voterate": "38.39",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "119539",
+            "voterate": "38.39"
           },
           {
-            "votenum": "6992",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc774\ubd09\ud559",
-            "voterate": "2.24",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "6992",
+            "voterate": "2.24"
           },
           {
-            "votenum": "24050",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uac15\uacbd\uc2dd",
-            "voterate": "7.72",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "24050",
+            "voterate": "7.72"
           },
           {
-            "votenum": "49924",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc815\uc218",
-            "voterate": "16.03",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "49924",
+            "voterate": "16.03"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ucd5c\uba85\uc218",
+            "votenum": "5661",
+            "voterate": "1.81"
           }
-        ]
+        ],
+        "undervotes": "4439",
+        "blank_ballots": "99702",
+        "cand_no": 6,
+        "assembly_no": 10
       },
       {
         "counted_votes": "295475",
-        "cand_no": 4,
         "electorates": "390521",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "292003",
         "district": "\ubd80\uc0b0 \uc81c4\uc120\uac70\uad6c",
-        "undervotes": "3472",
-        "blank_ballots": "95046",
         "result": [
           {
-            "votenum": "87171",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc591\ucc2c\uc6b0",
-            "voterate": "29.85",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "87171",
+            "voterate": "29.85"
           },
           {
-            "votenum": "117216",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc774\uae30\ud0dd",
-            "voterate": "40.14",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "117216",
+            "voterate": "40.14"
           },
           {
-            "votenum": "71252",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc774\uac74\uc77c",
-            "voterate": "24.40",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "71252",
+            "voterate": "24.40"
           },
           {
-            "votenum": "6270",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc804\ud55c\ub3c4",
-            "voterate": "2.14",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "6270",
+            "voterate": "2.14"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc8fc\uc131\ud0dc",
+            "votenum": "10094",
+            "voterate": "3.45"
           }
-        ]
+        ],
+        "undervotes": "3472",
+        "blank_ballots": "95046",
+        "cand_no": 5,
+        "assembly_no": 10
       },
       {
         "counted_votes": "178596",
-        "cand_no": 5,
         "electorates": "229652",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "176159",
         "district": "\ubd80\uc0b0 \uc81c5\uc120\uac70\uad6c",
-        "undervotes": "2437",
-        "blank_ballots": "51056",
         "result": [
           {
-            "votenum": "39347",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uae40\uc7ac\ud64d",
-            "voterate": "22.33",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "39347",
+            "voterate": "22.33"
           },
           {
-            "votenum": "50697",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uae40\uc2b9\ubaa9",
-            "voterate": "28.77",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "50697",
+            "voterate": "28.77"
           },
           {
-            "votenum": "38295",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc815\uc0c1\uad6c",
-            "voterate": "21.73",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "38295",
+            "voterate": "21.73"
           },
           {
-            "votenum": "7039",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc601\ud558",
-            "voterate": "3.99",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "7039",
+            "voterate": "3.99"
           },
           {
-            "votenum": "7236",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uc601\uadfc",
-            "voterate": "4.10",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "7236",
+            "voterate": "4.10"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ucd5c\ub450\uace0",
+            "votenum": "33545",
+            "voterate": "19.04"
           }
-        ]
+        ],
+        "undervotes": "2437",
+        "blank_ballots": "51056",
+        "cand_no": 6,
+        "assembly_no": 10
       },
       {
         "counted_votes": "368294",
-        "cand_no": 4,
         "electorates": "529187",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "362888",
         "district": "\uacbd\uae30 \uc81c1\uc120\uac70\uad6c",
-        "undervotes": "5406",
-        "blank_ballots": "160893",
         "result": [
           {
-            "votenum": "115506",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc720\uc2b9\uc6d0",
-            "voterate": "31.82",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "115506",
+            "voterate": "31.82"
           },
           {
-            "votenum": "126683",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uae40\uc740\ud558",
-            "voterate": "34.90",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "126683",
+            "voterate": "34.90"
           },
           {
-            "votenum": "17885",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\ud55c\uc885\uc218",
-            "voterate": "4.92",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "17885",
+            "voterate": "4.92"
           },
           {
-            "votenum": "59281",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc219\ud604",
-            "voterate": "16.33",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "59281",
+            "voterate": "16.33"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ucd5c\ub099\uad6c",
+            "votenum": "43533",
+            "voterate": "11.99"
           }
-        ]
+        ],
+        "undervotes": "5406",
+        "blank_ballots": "160893",
+        "cand_no": 5,
+        "assembly_no": 10
       },
       {
         "counted_votes": "204676",
-        "cand_no": 10,
         "electorates": "276041",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "202201",
         "district": "\uacbd\uae30 \uc81c2\uc120\uac70\uad6c",
-        "undervotes": "2475",
-        "blank_ballots": "71365",
         "result": [
           {
-            "votenum": "67221",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc774\ubcd1\ud76c",
-            "voterate": "33.24",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "67221",
+            "voterate": "33.24"
           },
           {
-            "votenum": "52426",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc720\uc6a9\uadfc",
-            "voterate": "25.92",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "52426",
+            "voterate": "25.92"
           },
           {
-            "votenum": "10492",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc190\ub3c4\uc2ec",
-            "voterate": "5.18",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "10492",
+            "voterate": "5.18"
           },
           {
-            "votenum": "2343",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uacf5\uc0c1\uc9c4",
-            "voterate": "1.15",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "2343",
+            "voterate": "1.15"
           },
           {
-            "votenum": "21018",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc77c\uc218",
-            "voterate": "10.39",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "21018",
+            "voterate": "10.39"
           },
           {
-            "votenum": "5083",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc9c4\uad6c",
-            "voterate": "2.51",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "5083",
+            "voterate": "2.51"
           },
           {
-            "votenum": "7777",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc11c\ud0dc\uc6d0",
-            "voterate": "3.84",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "7777",
+            "voterate": "3.84"
           },
           {
-            "votenum": "5067",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ucc28\uc9c4\ubaa8",
-            "voterate": "2.50",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "5067",
+            "voterate": "2.50"
           },
           {
-            "votenum": "2897",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ucd5c\uc601\uc7ac",
-            "voterate": "1.43",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "2897",
+            "voterate": "1.43"
           },
           {
-            "votenum": "7220",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ud64d\uae30\uc720",
-            "voterate": "3.57",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "7220",
+            "voterate": "3.57"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ud669\uc120\uc815",
+            "votenum": "20657",
+            "voterate": "10.21"
           }
-        ]
+        ],
+        "undervotes": "2475",
+        "blank_ballots": "71365",
+        "cand_no": 11,
+        "assembly_no": 10
       },
       {
         "counted_votes": "243284",
-        "cand_no": 3,
         "electorates": "326391",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "240060",
         "district": "\uacbd\uae30 \uc81c3\uc120\uac70\uad6c",
-        "undervotes": "3224",
-        "blank_ballots": "83107",
         "result": [
           {
-            "votenum": "101757",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ubc15\uba85\uadfc",
-            "voterate": "42.38",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "101757",
+            "voterate": "42.38"
           },
           {
-            "votenum": "94445",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uae40\ud615\uad11",
-            "voterate": "39.34",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "94445",
+            "voterate": "39.34"
           },
           {
-            "votenum": "8272",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc870\uc815\ubb34",
-            "voterate": "3.44",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "8272",
+            "voterate": "3.44"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc774\uc9c4\uc6a9",
+            "votenum": "35586",
+            "voterate": "14.82"
           }
-        ]
+        ],
+        "undervotes": "3224",
+        "blank_ballots": "83107",
+        "cand_no": 4,
+        "assembly_no": 10
       },
       {
         "counted_votes": "253567",
-        "cand_no": 6,
         "electorates": "358246",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "250220",
         "district": "\uacbd\uae30 \uc81c4\uc120\uac70\uad6c",
-        "undervotes": "3347",
-        "blank_ballots": "104679",
         "result": [
           {
-            "votenum": "76569",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc815\ub3d9\uc131",
-            "voterate": "30.60",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "76569",
+            "voterate": "30.60"
           },
           {
-            "votenum": "60776",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc720\uae30\uc900",
-            "voterate": "24.28",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "60776",
+            "voterate": "24.28"
           },
           {
-            "votenum": "19082",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\ubc15\uc885\uc9c4",
-            "voterate": "7.62",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "19082",
+            "voterate": "7.62"
           },
           {
-            "votenum": "4298",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubbfc\ud638\uc601",
-            "voterate": "1.71",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "4298",
+            "voterate": "1.71"
           },
           {
-            "votenum": "4131",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc2e0\ub3d9\uba85",
-            "voterate": "1.65",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "4131",
+            "voterate": "1.65"
           },
           {
-            "votenum": "75076",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc624\uc138\uc751",
-            "voterate": "30.00",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "75076",
+            "voterate": "30.00"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ud669\ub450\uc601",
+            "votenum": "10288",
+            "voterate": "4.11"
           }
-        ]
+        ],
+        "undervotes": "3347",
+        "blank_ballots": "104679",
+        "cand_no": 7,
+        "assembly_no": 10
       },
       {
         "counted_votes": "201583",
-        "cand_no": 5,
         "electorates": "276808",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "199001",
         "district": "\uacbd\uae30 \uc81c5\uc120\uac70\uad6c",
-        "undervotes": "2582",
-        "blank_ballots": "75225",
         "result": [
           {
-            "votenum": "52197",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc11c\uc0c1\ub9b0",
-            "voterate": "26.22",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "52197",
+            "voterate": "26.22"
           },
           {
-            "votenum": "71267",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc720\uce58\uc1a1",
-            "voterate": "35.81",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "71267",
+            "voterate": "35.81"
           },
           {
-            "votenum": "26755",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc815\uc9c4\ud658",
-            "voterate": "13.44",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "26755",
+            "voterate": "13.44"
           },
           {
-            "votenum": "19022",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc870\uc885\uc775",
-            "voterate": "9.55",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "19022",
+            "voterate": "9.55"
           },
           {
-            "votenum": "24014",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ud55c\ubbfc\uc218",
-            "voterate": "12.06",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "24014",
+            "voterate": "12.06"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ud55c\uc7ac\uc740",
+            "votenum": "5746",
+            "voterate": "2.88"
           }
-        ]
+        ],
+        "undervotes": "2582",
+        "blank_ballots": "75225",
+        "cand_no": 6,
+        "assembly_no": 10
       },
       {
         "counted_votes": "249529",
-        "cand_no": 3,
         "electorates": "362272",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "246683",
         "district": "\uacbd\uae30 \uc81c6\uc120\uac70\uad6c",
-        "undervotes": "2846",
-        "blank_ballots": "112743",
         "result": [
           {
-            "votenum": "81161",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc724\uad6d\ub178",
-            "voterate": "32.90",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "81161",
+            "voterate": "32.90"
           },
           {
-            "votenum": "108066",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc774\ud0dd\ub3c8",
-            "voterate": "43.80",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "108066",
+            "voterate": "43.80"
           },
           {
-            "votenum": "20778",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc2e0\ud558\ucca0",
-            "voterate": "8.42",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "20778",
+            "voterate": "8.42"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc548\ub3d9\uc120",
+            "votenum": "36678",
+            "voterate": "14.86"
           }
-        ]
+        ],
+        "undervotes": "2846",
+        "blank_ballots": "112743",
+        "cand_no": 4,
+        "assembly_no": 10
       },
       {
         "counted_votes": "148803",
-        "cand_no": 6,
         "electorates": "188528",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "146884",
         "district": "\uacbd\uae30 \uc81c7\uc120\uac70\uad6c",
-        "undervotes": "1919",
-        "blank_ballots": "39725",
         "result": [
           {
-            "votenum": "39844",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uae40\uc720\ud0c1",
-            "voterate": "27.12",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "39844",
+            "voterate": "27.12"
           },
           {
-            "votenum": "43058",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc624\ud64d\uc11d",
-            "voterate": "29.31",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "43058",
+            "voterate": "29.31"
           },
           {
-            "votenum": "13629",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uae40\ub450\uc12d",
-            "voterate": "9.27",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "13629",
+            "voterate": "9.27"
           },
           {
-            "votenum": "5214",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uace0\ucca0\ub8e1",
-            "voterate": "3.54",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "5214",
+            "voterate": "3.54"
           },
           {
-            "votenum": "23797",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc7ac\ucd98",
-            "voterate": "16.20",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "23797",
+            "voterate": "16.20"
           },
           {
-            "votenum": "9532",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ub0a8\uad81\ud0c0",
-            "voterate": "6.48",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "9532",
+            "voterate": "6.48"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc5b4  \ud55c",
+            "votenum": "11810",
+            "voterate": "8.04"
           }
-        ]
+        ],
+        "undervotes": "1919",
+        "blank_ballots": "39725",
+        "cand_no": 7,
+        "assembly_no": 10
       },
       {
         "counted_votes": "157428",
-        "cand_no": 2,
         "electorates": "192630",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "154963",
         "district": "\uacbd\uae30 \uc81c8\uc120\uac70\uad6c",
-        "undervotes": "2465",
-        "blank_ballots": "35202",
         "result": [
           {
-            "votenum": "109595",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc624\uce58\uc131",
-            "voterate": "70.72",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "109595",
+            "voterate": "70.72"
           },
           {
-            "votenum": "38150",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ucc9c\uba85\uae30",
-            "voterate": "24.61",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "38150",
+            "voterate": "24.61"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ud3b8\ubcf5\uc6b0",
+            "votenum": "7218",
+            "voterate": "4.65"
           }
-        ]
+        ],
+        "undervotes": "2465",
+        "blank_ballots": "35202",
+        "cand_no": 3,
+        "assembly_no": 10
       },
       {
         "counted_votes": "154104",
-        "cand_no": 6,
         "electorates": "180262",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "152299",
         "district": "\uac15\uc6d0 \uc81c1\uc120\uac70\uad6c",
-        "undervotes": "1868",
-        "blank_ballots": "26158",
         "result": [
           {
-            "votenum": "46455",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc190\uc2b9\ub355",
-            "voterate": "30.50",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "46455",
+            "voterate": "30.50"
           },
           {
-            "votenum": "45965",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uae40\uc900\uc12d",
-            "voterate": "30.18",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "45965",
+            "voterate": "30.18"
           },
           {
-            "votenum": "3446",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc591\uac74\uc8fc",
-            "voterate": "2.26",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "3446",
+            "voterate": "2.26"
           },
           {
-            "votenum": "29024",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc7ac\uc21c",
-            "voterate": "19.05",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "29024",
+            "voterate": "19.05"
           },
           {
-            "votenum": "5354",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc720\uc5f0\uad6d",
-            "voterate": "3.51",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "5354",
+            "voterate": "3.51"
           },
           {
-            "votenum": "6707",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uc218\ubcf5",
-            "voterate": "4.40",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "6707",
+            "voterate": "4.40"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ud64d\ucc3d\uc12d",
+            "votenum": "15348",
+            "voterate": "10.07"
           }
-        ]
+        ],
+        "undervotes": "1868",
+        "blank_ballots": "26158",
+        "cand_no": 7,
+        "assembly_no": 10
       },
       {
         "counted_votes": "171392",
-        "cand_no": 5,
         "electorates": "199434",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "168535",
         "district": "\uac15\uc6d0 \uc81c2\uc120\uac70\uad6c",
-        "undervotes": "2857",
-        "blank_ballots": "28042",
         "result": [
           {
-            "votenum": "55038",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uae40\uc6a9\ud638",
-            "voterate": "32.65",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "55038",
+            "voterate": "32.65"
           },
           {
-            "votenum": "55424",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ubc15\uc601\ub85d",
-            "voterate": "32.88",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "55424",
+            "voterate": "32.88"
           },
           {
-            "votenum": "9811",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc815\ud604\uc6b0",
-            "voterate": "5.82",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "9811",
+            "voterate": "5.82"
           },
           {
-            "votenum": "29741",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\ubcd1\ub82c",
-            "voterate": "17.64",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "29741",
+            "voterate": "17.64"
           },
           {
-            "votenum": "8931",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\ud559\uaddc",
-            "voterate": "5.29",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "8931",
+            "voterate": "5.29"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc774\uc885\uc6d0",
+            "votenum": "9590",
+            "voterate": "5.69"
           }
-        ]
+        ],
+        "undervotes": "2857",
+        "blank_ballots": "28042",
+        "cand_no": 6,
+        "assembly_no": 10
       },
       {
         "counted_votes": "224747",
-        "cand_no": 6,
         "electorates": "272337",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "222000",
         "district": "\uac15\uc6d0 \uc81c3\uc120\uac70\uad6c",
-        "undervotes": "2747",
-        "blank_ballots": "47590",
         "result": [
           {
-            "votenum": "74479",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uae40\ud6a8\uc601",
-            "voterate": "33.54",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "74479",
+            "voterate": "33.54"
           },
           {
-            "votenum": "26363",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ud568\uc601\uc8fc",
-            "voterate": "11.87",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "26363",
+            "voterate": "11.87"
           },
           {
-            "votenum": "21456",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uba85\uc724",
-            "voterate": "9.66",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "21456",
+            "voterate": "9.66"
           },
           {
-            "votenum": "5987",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc7ac\ucca0",
-            "voterate": "2.69",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "5987",
+            "voterate": "2.69"
           },
           {
-            "votenum": "42386",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc9c4\ub9cc",
-            "voterate": "19.09",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "42386",
+            "voterate": "19.09"
           },
           {
-            "votenum": "41248",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uad00\ud615",
-            "voterate": "18.58",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "41248",
+            "voterate": "18.58"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc815\uc778\uc218",
+            "votenum": "10081",
+            "voterate": "4.54"
           }
-        ]
+        ],
+        "undervotes": "2747",
+        "blank_ballots": "47590",
+        "cand_no": 7,
+        "assembly_no": 10
       },
       {
         "counted_votes": "97777",
-        "cand_no": 5,
         "electorates": "109642",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "96619",
         "district": "\uac15\uc6d0 \uc81c4\uc120\uac70\uad6c",
-        "undervotes": "1158",
-        "blank_ballots": "11865",
         "result": [
           {
-            "votenum": "58251",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc815\uc77c\uad8c",
-            "voterate": "60.28",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "58251",
+            "voterate": "60.28"
           },
           {
-            "votenum": "10258",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ud5c8\uacbd\uad6c",
-            "voterate": "10.61",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "10258",
+            "voterate": "10.61"
           },
           {
-            "votenum": "1551",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uae30\ud658",
-            "voterate": "1.60",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "1551",
+            "voterate": "1.60"
           },
           {
-            "votenum": "10789",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubc15\uacbd\uc6d0",
-            "voterate": "11.16",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "10789",
+            "voterate": "11.16"
           },
           {
-            "votenum": "3991",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\ucc38\uc218",
-            "voterate": "4.13",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "3991",
+            "voterate": "4.13"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ud568\uc885\ube48",
+            "votenum": "11779",
+            "voterate": "12.19"
           }
-        ]
+        ],
+        "undervotes": "1158",
+        "blank_ballots": "11865",
+        "cand_no": 6,
+        "assembly_no": 10
       },
       {
         "counted_votes": "134084",
-        "cand_no": 3,
         "electorates": "160555",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "131872",
         "district": "\uac15\uc6d0 \uc81c5\uc120\uac70\uad6c",
-        "undervotes": "2212",
-        "blank_ballots": "26471",
         "result": [
           {
-            "votenum": "67280",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc7a5\uc2b9\ud0dc",
-            "voterate": "51.01",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "67280",
+            "voterate": "51.01"
           },
           {
-            "votenum": "45330",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc5c4\uc601\ub2ec",
-            "voterate": "34.37",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "45330",
+            "voterate": "34.37"
           },
           {
-            "votenum": "8892",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc6d0\uc131\ud76c",
-            "voterate": "6.74",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "8892",
+            "voterate": "6.74"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc2e0\ubbfc\uc120",
+            "votenum": "10370",
+            "voterate": "7.86"
           }
-        ]
+        ],
+        "undervotes": "2212",
+        "blank_ballots": "26471",
+        "cand_no": 4,
+        "assembly_no": 10
       },
       {
         "counted_votes": "177416",
-        "cand_no": 3,
         "electorates": "211689",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "174677",
         "district": "\ucda9\ubd81 \uc81c1\uc120\uac70\uad6c",
-        "undervotes": "2739",
-        "blank_ballots": "34273",
         "result": [
           {
-            "votenum": "51221",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ubbfc\uae30\uc2dd",
-            "voterate": "29.32",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "51221",
+            "voterate": "29.32"
           },
           {
-            "votenum": "52788",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc774\ubbfc\uc6b0",
-            "voterate": "30.22",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "52788",
+            "voterate": "30.22"
           },
           {
-            "votenum": "54655",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uae40\ud604\uc218",
-            "voterate": "31.28",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "54655",
+            "voterate": "31.28"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ubc15\ud559\ub798",
+            "votenum": "16013",
+            "voterate": "9.16"
           }
-        ]
+        ],
+        "undervotes": "2739",
+        "blank_ballots": "34273",
+        "cand_no": 4,
+        "assembly_no": 10
       },
       {
         "counted_votes": "201754",
-        "cand_no": 4,
         "electorates": "234568",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "198107",
         "district": "\ucda9\ubd81 \uc81c2\uc120\uac70\uad6c",
-        "undervotes": "3647",
-        "blank_ballots": "32814",
         "result": [
           {
-            "votenum": "76693",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc774\uc885\uadfc",
-            "voterate": "38.71",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "76693",
+            "voterate": "38.71"
           },
           {
-            "votenum": "72580",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc774\ud0dd\ud76c",
-            "voterate": "36.63",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "72580",
+            "voterate": "36.63"
           },
           {
-            "votenum": "6021",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\ud5c8\ud0c1",
-            "voterate": "3.03",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "6021",
+            "voterate": "3.03"
           },
           {
-            "votenum": "21927",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc784\uad11\uaddc",
-            "voterate": "11.06",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "21927",
+            "voterate": "11.06"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc870\uc885\ud638",
+            "votenum": "20886",
+            "voterate": "10.54"
           }
-        ]
+        ],
+        "undervotes": "3647",
+        "blank_ballots": "32814",
+        "cand_no": 5,
+        "assembly_no": 10
       },
       {
         "counted_votes": "136929",
-        "cand_no": 7,
         "electorates": "153980",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "135073",
         "district": "\ucda9\ubd81 \uc81c3\uc120\uac70\uad6c",
-        "undervotes": "1856",
-        "blank_ballots": "17051",
         "result": [
           {
-            "votenum": "48758",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc721\uc778\uc218",
-            "voterate": "36.09",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "48758",
+            "voterate": "36.09"
           },
           {
-            "votenum": "29365",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc774\uc6a9\ud76c",
-            "voterate": "21.74",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "29365",
+            "voterate": "21.74"
           },
           {
-            "votenum": "19492",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ucd5c\uadf9",
-            "voterate": "14.43",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "19492",
+            "voterate": "14.43"
           },
           {
-            "votenum": "9693",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc774\uc7ac\uc778",
-            "voterate": "7.17",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "9693",
+            "voterate": "7.17"
           },
           {
-            "votenum": "2309",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc548\uc815\uc900",
-            "voterate": "1.70",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "2309",
+            "voterate": "1.70"
           },
           {
-            "votenum": "3303",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc5fc\uc885\ud6c8",
-            "voterate": "2.44",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "3303",
+            "voterate": "2.44"
           },
           {
-            "votenum": "17061",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uad11\ud638",
-            "voterate": "12.63",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "17061",
+            "voterate": "12.63"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc804\uc5f0\uaddc",
+            "votenum": "5092",
+            "voterate": "3.76"
           }
-        ]
+        ],
+        "undervotes": "1856",
+        "blank_ballots": "17051",
+        "cand_no": 8,
+        "assembly_no": 10
       },
       {
         "counted_votes": "135794",
-        "cand_no": 3,
         "electorates": "161473",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "133332",
         "district": "\ucda9\ubd81 \uc81c4\uc120\uac70\uad6c",
-        "undervotes": "2462",
-        "blank_ballots": "25679",
         "result": [
           {
-            "votenum": "57103",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc624\uc6a9\uc6b4",
-            "voterate": "42.82",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "57103",
+            "voterate": "42.82"
           },
           {
-            "votenum": "40058",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc774\ucda9\ud658",
-            "voterate": "30.04",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "40058",
+            "voterate": "30.04"
           },
           {
-            "votenum": "11810",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\ucc44\uc601\ub9cc",
-            "voterate": "8.85",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "11810",
+            "voterate": "8.85"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc548\ub3d9\uc900",
+            "votenum": "24361",
+            "voterate": "18.27"
           }
-        ]
+        ],
+        "undervotes": "2462",
+        "blank_ballots": "25679",
+        "cand_no": 4,
+        "assembly_no": 10
       },
       {
         "counted_votes": "220709",
-        "cand_no": 5,
         "electorates": "273749",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "217671",
         "district": "\ucda9\ub0a8 \uc81c1\uc120\uac70\uad6c",
-        "undervotes": "3038",
-        "blank_ballots": "53040",
         "result": [
           {
-            "votenum": "62924",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uae40\uc6a9\ud0dc",
-            "voterate": "28.90",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "62924",
+            "voterate": "28.90"
           },
           {
-            "votenum": "36589",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc2e0\ub3d9\uc900",
-            "voterate": "16.80",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "36589",
+            "voterate": "16.80"
           },
           {
-            "votenum": "34956",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\ubc15\ubcd1\ubc30",
-            "voterate": "16.05",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "34956",
+            "voterate": "16.05"
           },
           {
-            "votenum": "4995",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubc15\uc815\uaddc",
-            "voterate": "2.29",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "4995",
+            "voterate": "2.29"
           },
           {
-            "votenum": "3288",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc2ec\uc815\ubcf4",
-            "voterate": "1.51",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "3288",
+            "voterate": "1.51"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc784\ud638",
+            "votenum": "74919",
+            "voterate": "34.41"
           }
-        ]
+        ],
+        "undervotes": "3038",
+        "blank_ballots": "53040",
+        "cand_no": 6,
+        "assembly_no": 10
       },
       {
         "counted_votes": "162316",
-        "cand_no": 9,
         "electorates": "205903",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "157919",
         "district": "\ucda9\ub0a8 \uc81c2\uc120\uac70\uad6c",
-        "undervotes": "4397",
-        "blank_ballots": "43587",
         "result": [
           {
-            "votenum": "41491",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uae40\uc885\ucca0",
-            "voterate": "26.27",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "41491",
+            "voterate": "26.27"
           },
           {
-            "votenum": "38156",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc815\uc7ac\uc6d0",
-            "voterate": "24.16",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "38156",
+            "voterate": "24.16"
           },
           {
-            "votenum": "17558",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc774\uc9c4\uad6c",
-            "voterate": "11.11",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "17558",
+            "voterate": "11.11"
           },
           {
-            "votenum": "23090",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uac15\ud544\uc120",
-            "voterate": "14.62",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "23090",
+            "voterate": "14.62"
           },
           {
-            "votenum": "0",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc601\uc11d",
-            "voterate": "0.00",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "0",
+            "voterate": "0.00"
           },
           {
-            "votenum": "4539",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc131\uae30\uc120",
-            "voterate": "2.87",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "4539",
+            "voterate": "2.87"
           },
           {
-            "votenum": "6151",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uc6d0\ucc3d",
-            "voterate": "3.89",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "6151",
+            "voterate": "3.89"
           },
           {
-            "votenum": "4905",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc870\uc77c\ubb35",
-            "voterate": "3.10",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "4905",
+            "voterate": "3.10"
           },
           {
-            "votenum": "10389",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc870\uc77c\ud658",
-            "voterate": "6.57",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "10389",
+            "voterate": "6.57"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ud669\uaddc\uc601",
+            "votenum": "11640",
+            "voterate": "7.37"
           }
-        ]
+        ],
+        "undervotes": "4397",
+        "blank_ballots": "43587",
+        "cand_no": 10,
+        "assembly_no": 10
       },
       {
         "counted_votes": "156911",
-        "cand_no": 6,
         "electorates": "188120",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "154716",
         "district": "\ucda9\ub0a8 \uc81c3\uc120\uac70\uad6c",
-        "undervotes": "2195",
-        "blank_ballots": "31209",
         "result": [
           {
-            "votenum": "63585",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc774\uc900\uc12d",
-            "voterate": "41.09",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "63585",
+            "voterate": "41.09"
           },
           {
-            "votenum": "52135",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc720\ud55c\uc5f4",
-            "voterate": "33.69",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "52135",
+            "voterate": "33.69"
           },
           {
-            "votenum": "2909",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc774\ucc9c\uc601",
-            "voterate": "1.88",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "2909",
+            "voterate": "1.88"
           },
           {
-            "votenum": "6484",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc1a1\uc11d\ub9b0",
-            "voterate": "4.19",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "6484",
+            "voterate": "4.19"
           },
           {
-            "votenum": "2360",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc1a1\uc900\ube48",
-            "voterate": "1.52",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "2360",
+            "voterate": "1.52"
           },
           {
-            "votenum": "5063",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc7a5\uc7ac\ubcf5",
-            "voterate": "3.27",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "5063",
+            "voterate": "3.27"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ucd5c\uacbd\uc218",
+            "votenum": "22180",
+            "voterate": "14.33"
           }
-        ]
+        ],
+        "undervotes": "2195",
+        "blank_ballots": "31209",
+        "cand_no": 7,
+        "assembly_no": 10
       },
       {
         "counted_votes": "169006",
-        "cand_no": 9,
         "electorates": "205391",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "166509",
         "district": "\ucda9\ub0a8 \uc81c4\uc120\uac70\uad6c",
-        "undervotes": "2497",
-        "blank_ballots": "36385",
         "result": [
           {
-            "votenum": "77762",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc815\uc11d\ubaa8",
-            "voterate": "46.70",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "77762",
+            "voterate": "46.70"
           },
           {
-            "votenum": "17329",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc724\uc644\uc911",
-            "voterate": "10.40",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "17329",
+            "voterate": "10.40"
           },
           {
-            "votenum": "12736",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\ubc31\uc2b9\ub300",
-            "voterate": "7.64",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "12736",
+            "voterate": "7.64"
           },
           {
-            "votenum": "2914",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uac15\ubcd1\uc9c4",
-            "voterate": "1.75",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "2914",
+            "voterate": "1.75"
           },
           {
-            "votenum": "7775",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\ud615\ub300",
-            "voterate": "4.66",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "7775",
+            "voterate": "4.66"
           },
           {
-            "votenum": "23934",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubc15\ucc2c",
-            "voterate": "14.37",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "23934",
+            "voterate": "14.37"
           },
           {
-            "votenum": "3091",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uc885\uae38",
-            "voterate": "1.85",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "3091",
+            "voterate": "1.85"
           },
           {
-            "votenum": "5705",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\ud76c\uc6d0",
-            "voterate": "3.42",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "5705",
+            "voterate": "3.42"
           },
           {
-            "votenum": "2737",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc784\uae38\uc218",
-            "voterate": "1.64",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "2737",
+            "voterate": "1.64"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc784\ub355\uaddc",
+            "votenum": "12526",
+            "voterate": "7.52"
           }
-        ]
+        ],
+        "undervotes": "2497",
+        "blank_ballots": "36385",
+        "cand_no": 10,
+        "assembly_no": 10
       },
       {
         "counted_votes": "207892",
-        "cand_no": 8,
         "electorates": "236558",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "201871",
         "district": "\ucda9\ub0a8 \uc81c5\uc120\uac70\uad6c",
-        "undervotes": "6021",
-        "blank_ballots": "28666",
         "result": [
           {
-            "votenum": "134513",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uae40\uc885\ud544",
-            "voterate": "66.63",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "134513",
+            "voterate": "66.63"
           },
           {
-            "votenum": "30333",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc870\uc911\uc5f0",
-            "voterate": "15.02",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "30333",
+            "voterate": "15.02"
           },
           {
-            "votenum": "7489",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc724\uc138\ubbfc",
-            "voterate": "3.70",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "7489",
+            "voterate": "3.70"
           },
           {
-            "votenum": "7936",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\ud615\uc625",
-            "voterate": "3.93",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "7936",
+            "voterate": "3.93"
           },
           {
-            "votenum": "2529",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\ud64d\uc870",
-            "voterate": "1.25",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "2529",
+            "voterate": "1.25"
           },
           {
-            "votenum": "3085",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ub098\ud544\uc5f4",
-            "voterate": "1.52",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "3085",
+            "voterate": "1.52"
           },
           {
-            "votenum": "9429",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubc31\ub0a8\uce58",
-            "voterate": "4.67",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "9429",
+            "voterate": "4.67"
           },
           {
-            "votenum": "107",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc2e0\uc900\ud76c",
-            "voterate": "0.05",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "107",
+            "voterate": "0.05"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ud55c\uc0c1\ud544",
+            "votenum": "6450",
+            "voterate": "3.19"
           }
-        ]
+        ],
+        "undervotes": "6021",
+        "blank_ballots": "28666",
+        "cand_no": 9,
+        "assembly_no": 10
       },
       {
         "counted_votes": "161163",
-        "cand_no": 3,
         "electorates": "194822",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "157254",
         "district": "\ucda9\ub0a8 \uc81c6\uc120\uac70\uad6c",
-        "undervotes": "3909",
-        "blank_ballots": "33659",
         "result": [
           {
-            "votenum": "60368",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc7a5\uc601\uc21c",
-            "voterate": "38.38",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "60368",
+            "voterate": "38.38"
           },
           {
-            "votenum": "44663",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ud55c\uac74\uc218",
-            "voterate": "28.40",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "44663",
+            "voterate": "28.40"
           },
           {
-            "votenum": "28578",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uae40\uc131\uc2dd",
-            "voterate": "18.17",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "28578",
+            "voterate": "18.17"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc724\uaddc\uc0c1",
+            "votenum": "23645",
+            "voterate": "15.03"
           }
-        ]
+        ],
+        "undervotes": "3909",
+        "blank_ballots": "33659",
+        "cand_no": 4,
+        "assembly_no": 10
       },
       {
         "counted_votes": "181465",
-        "cand_no": 5,
         "electorates": "218688",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "179009",
         "district": "\ucda9\ub0a8 \uc81c7\uc120\uac70\uad6c",
-        "undervotes": "2456",
-        "blank_ballots": "37223",
         "result": [
           {
-            "votenum": "54699",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc2ec\ud604\uc9c1",
-            "voterate": "30.55",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "54699",
+            "voterate": "30.55"
           },
           {
-            "votenum": "26799",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc720\uc81c\uc5f0",
-            "voterate": "14.97",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "26799",
+            "voterate": "14.97"
           },
           {
-            "votenum": "40874",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ud55c\uc601\uc218",
-            "voterate": "22.83",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "40874",
+            "voterate": "22.83"
           },
           {
-            "votenum": "15217",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\ud604\uc6b1",
-            "voterate": "8.50",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "15217",
+            "voterate": "8.50"
           },
           {
-            "votenum": "17655",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubc15\uc644\uad50",
-            "voterate": "9.86",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "17655",
+            "voterate": "9.86"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc774\uba85\ud718",
+            "votenum": "23764",
+            "voterate": "13.27"
           }
-        ]
+        ],
+        "undervotes": "2456",
+        "blank_ballots": "37223",
+        "cand_no": 6,
+        "assembly_no": 10
       },
       {
         "counted_votes": "196576",
-        "cand_no": 5,
         "electorates": "244484",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "193013",
         "district": "\uc804\ubd81 \uc81c1\uc120\uac70\uad6c",
-        "undervotes": "3563",
-        "blank_ballots": "47908",
         "result": [
           {
-            "votenum": "52533",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc720\uae30\uc815",
-            "voterate": "27.21",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "52533",
+            "voterate": "27.21"
           },
           {
-            "votenum": "100404",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc774\ucca0\uc2b9",
-            "voterate": "52.01",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "100404",
+            "voterate": "52.01"
           },
           {
-            "votenum": "12980",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc720\ucda9\uc131",
-            "voterate": "6.72",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "12980",
+            "voterate": "6.72"
           },
           {
-            "votenum": "10375",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc591\uc724\ubaa8",
-            "voterate": "5.37",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "10375",
+            "voterate": "5.37"
           },
           {
-            "votenum": "12148",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc784\uad11\uc21c",
-            "voterate": "6.29",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "12148",
+            "voterate": "6.29"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc870\ud615\uc775",
+            "votenum": "4573",
+            "voterate": "2.36"
           }
-        ]
+        ],
+        "undervotes": "3563",
+        "blank_ballots": "47908",
+        "cand_no": 6,
+        "assembly_no": 10
       },
       {
         "counted_votes": "230919",
-        "cand_no": 6,
         "electorates": "282289",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "227713",
         "district": "\uc804\ubd81 \uc81c2\uc120\uac70\uad6c",
-        "undervotes": "3206",
-        "blank_ballots": "51370",
         "result": [
           {
-            "votenum": "57779",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ucc44\uc601\ucca0",
-            "voterate": "25.37",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "57779",
+            "voterate": "25.37"
           },
           {
-            "votenum": "62622",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uae40\ud604\uae30",
-            "voterate": "27.50",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "62622",
+            "voterate": "27.50"
           },
           {
-            "votenum": "53913",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uac15\uadfc\ud638",
-            "voterate": "23.67",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "53913",
+            "voterate": "23.67"
           },
           {
-            "votenum": "8402",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc911\uc11d",
-            "voterate": "3.68",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "8402",
+            "voterate": "3.68"
           },
           {
-            "votenum": "13594",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc624\uc2b9\uc5fd",
-            "voterate": "5.96",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "13594",
+            "voterate": "5.96"
           },
           {
-            "votenum": "23532",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ucc44\uc601\uc11d",
-            "voterate": "10.33",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "23532",
+            "voterate": "10.33"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ucd5c\uae30\ucc3d",
+            "votenum": "7871",
+            "voterate": "3.45"
           }
-        ]
+        ],
+        "undervotes": "3206",
+        "blank_ballots": "51370",
+        "cand_no": 7,
+        "assembly_no": 10
       },
       {
         "counted_votes": "93847",
-        "cand_no": 8,
         "electorates": "104420",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "92603",
         "district": "\uc804\ubd81 \uc81c3\uc120\uac70\uad6c",
-        "undervotes": "1244",
-        "blank_ballots": "10573",
         "result": [
           {
-            "votenum": "33026",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uae40\uad11\uc218",
-            "voterate": "35.66",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "33026",
+            "voterate": "35.66"
           },
           {
-            "votenum": "23475",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ucd5c\uc131\uc11d",
-            "voterate": "25.35",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "23475",
+            "voterate": "25.35"
           },
           {
-            "votenum": "737",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc774\ubcf5\ub3d9",
-            "voterate": "0.79",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "737",
+            "voterate": "0.79"
           },
           {
-            "votenum": "7446",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\ub355\uaddc",
-            "voterate": "8.04",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "7446",
+            "voterate": "8.04"
           },
           {
-            "votenum": "4605",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\ubd09\uad00",
-            "voterate": "4.97",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "4605",
+            "voterate": "4.97"
           },
           {
-            "votenum": "13362",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc624\uc0c1\ud604",
-            "voterate": "14.42",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "13362",
+            "voterate": "14.42"
           },
           {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc774\uc0c1\uc625",
             "votenum": "1503",
-            "name_kr": "\uc774\uc0c1\uc625",
-            "voterate": "1.62",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "voterate": "1.62"
           },
           {
-            "votenum": "5953",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uc0c1\uc625",
-            "voterate": "6.42",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "5953",
+            "voterate": "6.42"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ud5c8\uc7ac\uc1a1",
+            "votenum": "2496",
+            "voterate": "2.69"
           }
-        ]
+        ],
+        "undervotes": "1244",
+        "blank_ballots": "10573",
+        "cand_no": 9,
+        "assembly_no": 10
       },
       {
         "counted_votes": "149091",
-        "cand_no": 6,
         "electorates": "166986",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "146183",
         "district": "\uc804\ubd81 \uc81c4\uc120\uac70\uad6c",
-        "undervotes": "2908",
-        "blank_ballots": "17895",
         "result": [
           {
-            "votenum": "54576",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc124\uc778\uc218",
-            "voterate": "37.33",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "54576",
+            "voterate": "37.33"
           },
           {
-            "votenum": "34314",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc591\ud574\uc900",
-            "voterate": "23.47",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "34314",
+            "voterate": "23.47"
           },
           {
-            "votenum": "1486",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc624\uc5f0\uadfc",
-            "voterate": "1.01",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "1486",
+            "voterate": "1.01"
           },
           {
-            "votenum": "8600",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uac15\uc778\uc6d0",
-            "voterate": "5.88",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "8600",
+            "voterate": "5.88"
           },
           {
-            "votenum": "4245",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc18c\ubcd1\ub0a8",
-            "voterate": "2.90",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "4245",
+            "voterate": "2.90"
           },
           {
-            "votenum": "37631",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc190\uc8fc\ud56d",
-            "voterate": "25.74",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "37631",
+            "voterate": "25.74"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc2e0\uc21c\uc6d0",
+            "votenum": "5331",
+            "voterate": "3.64"
           }
-        ]
+        ],
+        "undervotes": "2908",
+        "blank_ballots": "17895",
+        "cand_no": 7,
+        "assembly_no": 10
       },
       {
         "counted_votes": "187453",
-        "cand_no": 8,
         "electorates": "218005",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "184205",
         "district": "\uc804\ubd81 \uc81c5\uc120\uac70\uad6c",
-        "undervotes": "3248",
-        "blank_ballots": "30552",
         "result": [
           {
-            "votenum": "51632",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc7a5\uacbd\uc21c",
-            "voterate": "28.02",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "51632",
+            "voterate": "28.02"
           },
           {
-            "votenum": "45703",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uae40\uc6d0\uae30",
-            "voterate": "24.81",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "45703",
+            "voterate": "24.81"
           },
           {
-            "votenum": "5896",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uae40\uae30\uc625",
-            "voterate": "3.20",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "5896",
+            "voterate": "3.20"
           },
           {
-            "votenum": "29824",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\ud0dd\ud558",
-            "voterate": "16.19",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "29824",
+            "voterate": "16.19"
           },
           {
-            "votenum": "17159",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\ud615\uc218",
-            "voterate": "9.31",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "17159",
+            "voterate": "9.31"
           },
           {
-            "votenum": "4631",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc720\ucc3d\uc5f4",
-            "voterate": "2.51",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "4631",
+            "voterate": "2.51"
           },
           {
-            "votenum": "11358",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uc6d0\ubc30",
-            "voterate": "6.16",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "11358",
+            "voterate": "6.16"
           },
           {
-            "votenum": "6135",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uc758\uad00",
-            "voterate": "3.33",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "6135",
+            "voterate": "3.33"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc774\ub099\ub3c4",
+            "votenum": "11867",
+            "voterate": "6.44"
           }
-        ]
+        ],
+        "undervotes": "3248",
+        "blank_ballots": "30552",
+        "cand_no": 9,
+        "assembly_no": 10
       },
       {
         "counted_votes": "130212",
-        "cand_no": 5,
         "electorates": "149514",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "128055",
         "district": "\uc804\ubd81 \uc81c6\uc120\uac70\uad6c",
-        "undervotes": "2157",
-        "blank_ballots": "19302",
         "result": [
           {
-            "votenum": "36478",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc774\ud638\uc885",
-            "voterate": "28.48",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "36478",
+            "voterate": "28.48"
           },
           {
-            "votenum": "34831",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc9c4\uc758\uc885",
-            "voterate": "27.20",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "34831",
+            "voterate": "27.20"
           },
           {
-            "votenum": "5784",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uae40\uc77c\ubc94",
-            "voterate": "4.51",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "5784",
+            "voterate": "4.51"
           },
           {
-            "votenum": "7346",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc885\uc218",
-            "voterate": "5.73",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "7346",
+            "voterate": "5.73"
           },
           {
-            "votenum": "36941",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubc15\uc6a9\uae30",
-            "voterate": "28.84",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "36941",
+            "voterate": "28.84"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc815\uade0\ud658",
+            "votenum": "6675",
+            "voterate": "5.21"
           }
-        ]
+        ],
+        "undervotes": "2157",
+        "blank_ballots": "19302",
+        "cand_no": 6,
+        "assembly_no": 10
       },
       {
         "counted_votes": "231629",
-        "cand_no": 6,
         "electorates": "312468",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "229618",
         "district": "\uc804\ub0a8 \uc81c1\uc120\uac70\uad6c",
-        "undervotes": "2011",
-        "blank_ballots": "80839",
         "result": [
           {
-            "votenum": "48595",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ubc15\ucca0",
-            "voterate": "21.16",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "48595",
+            "voterate": "21.16"
           },
           {
-            "votenum": "83586",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc774\ud544\uc120",
-            "voterate": "36.40",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "83586",
+            "voterate": "36.40"
           },
           {
-            "votenum": "66558",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uae40\ub85d\uc601",
-            "voterate": "28.98",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "66558",
+            "voterate": "28.98"
           },
           {
-            "votenum": "4815",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubc15\uc601\uae30",
-            "voterate": "2.09",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "4815",
+            "voterate": "2.09"
           },
           {
-            "votenum": "5803",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc720\uc8fc\uc601",
-            "voterate": "2.52",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "5803",
+            "voterate": "2.52"
           },
           {
-            "votenum": "15955",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc7a5\ud734\ub3d9",
-            "voterate": "6.94",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "15955",
+            "voterate": "6.94"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc9c0\uadfc\uc218",
+            "votenum": "4306",
+            "voterate": "1.87"
           }
-        ]
+        ],
+        "undervotes": "2011",
+        "blank_ballots": "80839",
+        "cand_no": 7,
+        "assembly_no": 10
       },
       {
         "counted_votes": "174993",
-        "cand_no": 4,
         "electorates": "222937",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "172112",
         "district": "\uc804\ub0a8 \uc81c2\uc120\uac70\uad6c",
-        "undervotes": "2881",
-        "blank_ballots": "47944",
         "result": [
           {
-            "votenum": "66730",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ucd5c\uc601\ucca0",
-            "voterate": "38.77",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "66730",
+            "voterate": "38.77"
           },
           {
-            "votenum": "45256",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc784\uc885\uae30",
-            "voterate": "26.29",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "45256",
+            "voterate": "26.29"
           },
           {
-            "votenum": "27134",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uae40\uacbd\uc778",
-            "voterate": "15.76",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "27134",
+            "voterate": "15.76"
           },
           {
-            "votenum": "16501",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uae30\uc5f4",
-            "voterate": "9.58",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "16501",
+            "voterate": "9.58"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc720\uc625\uc6b0",
+            "votenum": "16491",
+            "voterate": "9.58"
           }
-        ]
+        ],
+        "undervotes": "2881",
+        "blank_ballots": "47944",
+        "cand_no": 5,
+        "assembly_no": 10
       },
       {
         "counted_votes": "154090",
-        "cand_no": 7,
         "electorates": "193450",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "151804",
         "district": "\uc804\ub0a8 \uc81c3\uc120\uac70\uad6c",
-        "undervotes": "2286",
-        "blank_ballots": "39360",
         "result": [
           {
-            "votenum": "56828",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc774\ub3c4\uc120",
-            "voterate": "37.43",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "56828",
+            "voterate": "37.43"
           },
           {
-            "votenum": "27194",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ubc15\ubcd1\ud6a8",
-            "voterate": "17.91",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "27194",
+            "voterate": "17.91"
           },
           {
-            "votenum": "12686",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uae40\uc6a9\uc77c",
-            "voterate": "8.35",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "12686",
+            "voterate": "8.35"
           },
           {
-            "votenum": "17032",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uad11\uc601",
-            "voterate": "11.21",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "17032",
+            "voterate": "11.21"
           },
           {
-            "votenum": "22863",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc2e0\uc21c\ubc94",
-            "voterate": "15.06",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "22863",
+            "voterate": "15.06"
           },
           {
-            "votenum": "5655",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ub958\ud604\uc218",
-            "voterate": "3.72",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "5655",
+            "voterate": "3.72"
           },
           {
-            "votenum": "3265",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc724\ucc3d\uadfc",
-            "voterate": "2.15",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "3265",
+            "voterate": "2.15"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ud55c\uc6d0\ud76c",
+            "votenum": "6281",
+            "voterate": "4.13"
           }
-        ]
+        ],
+        "undervotes": "2286",
+        "blank_ballots": "39360",
+        "cand_no": 8,
+        "assembly_no": 10
       },
       {
         "counted_votes": "124573",
-        "cand_no": 5,
         "electorates": "144445",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "122828",
         "district": "\uc804\ub0a8 \uc81c4\uc120\uac70\uad6c",
-        "undervotes": "1745",
-        "blank_ballots": "19872",
         "result": [
           {
-            "votenum": "32651",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc720\uacbd\ud604",
-            "voterate": "26.58",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "32651",
+            "voterate": "26.58"
           },
           {
-            "votenum": "29246",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ud5c8\uacbd\ub9cc",
-            "voterate": "23.81",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "29246",
+            "voterate": "23.81"
           },
           {
-            "votenum": "5288",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\ubc15\uc6a9\uad6c",
-            "voterate": "4.30",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "5288",
+            "voterate": "4.30"
           },
           {
-            "votenum": "17863",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uac15\uae38\ub9cc",
-            "voterate": "14.54",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "17863",
+            "voterate": "14.54"
           },
           {
-            "votenum": "15254",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc704\ucc2c\ud638",
-            "voterate": "12.41",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "15254",
+            "voterate": "12.41"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc870\uaddc\uc21c",
+            "votenum": "22526",
+            "voterate": "18.33"
           }
-        ]
+        ],
+        "undervotes": "1745",
+        "blank_ballots": "19872",
+        "cand_no": 6,
+        "assembly_no": 10
       },
       {
         "counted_votes": "134902",
-        "cand_no": 4,
         "electorates": "163469",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "132793",
         "district": "\uc804\ub0a8 \uc81c5\uc120\uac70\uad6c",
-        "undervotes": "2109",
-        "blank_ballots": "28567",
         "result": [
           {
-            "votenum": "24175",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc784\uc778\ucc44",
-            "voterate": "18.20",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "24175",
+            "voterate": "18.20"
           },
           {
-            "votenum": "30988",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uae40\uc724\ub355",
-            "voterate": "23.33",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "30988",
+            "voterate": "23.33"
           },
           {
-            "votenum": "22685",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uae40\uc7a5\uace4",
-            "voterate": "17.08",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "22685",
+            "voterate": "17.08"
           },
           {
-            "votenum": "27388",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc870\ud64d\uaddc",
-            "voterate": "20.62",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "27388",
+            "voterate": "20.62"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ud55c\uac11\uc218",
+            "votenum": "27557",
+            "voterate": "20.75"
           }
-        ]
+        ],
+        "undervotes": "2109",
+        "blank_ballots": "28567",
+        "cand_no": 5,
+        "assembly_no": 10
       },
       {
         "counted_votes": "132816",
-        "cand_no": 4,
         "electorates": "151808",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "129963",
         "district": "\uc804\ub0a8 \uc81c6\uc120\uac70\uad6c",
-        "undervotes": "2853",
-        "blank_ballots": "18992",
         "result": [
           {
-            "votenum": "59942",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ubb38\ud615\ud0dc",
-            "voterate": "46.12",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "59942",
+            "voterate": "46.12"
           },
           {
-            "votenum": "34233",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uace0\uc7ac\uccad",
-            "voterate": "26.34",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "34233",
+            "voterate": "26.34"
           },
           {
-            "votenum": "7280",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc591\ub3d9\ud76c",
-            "voterate": "5.60",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "7280",
+            "voterate": "5.60"
           },
           {
-            "votenum": "6110",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc2ec\uc0c1\uc900",
-            "voterate": "4.70",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "6110",
+            "voterate": "4.70"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc870\uc6a9\uae30",
+            "votenum": "22398",
+            "voterate": "17.23"
           }
-        ]
+        ],
+        "undervotes": "2853",
+        "blank_ballots": "18992",
+        "cand_no": 5,
+        "assembly_no": 10
       },
       {
         "counted_votes": "153188",
-        "cand_no": 2,
         "electorates": "178709",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "151107",
         "district": "\uc804\ub0a8 \uc81c7\uc120\uac70\uad6c",
-        "undervotes": "2081",
-        "blank_ballots": "25521",
         "result": [
           {
-            "votenum": "72718",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc2e0\ud615\uc2dd",
-            "voterate": "48.12",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "72718",
+            "voterate": "48.12"
           },
           {
-            "votenum": "31560",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc774\uc911\uc7ac",
-            "voterate": "20.88",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "31560",
+            "voterate": "20.88"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uae40\uc218",
+            "votenum": "46829",
+            "voterate": "30.99"
           }
-        ]
+        ],
+        "undervotes": "2081",
+        "blank_ballots": "25521",
+        "cand_no": 3,
+        "assembly_no": 10
       },
       {
         "counted_votes": "191356",
-        "cand_no": 6,
         "electorates": "228297",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "188336",
         "district": "\uc804\ub0a8 \uc81c8\uc120\uac70\uad6c",
-        "undervotes": "3020",
-        "blank_ballots": "36941",
         "result": [
           {
-            "votenum": "74668",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uae38\uc804\uc2dd",
-            "voterate": "39.64",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "74668",
+            "voterate": "39.64"
           },
           {
-            "votenum": "27687",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ud669\ud638\ub3d9",
-            "voterate": "14.70",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "27687",
+            "voterate": "14.70"
           },
           {
-            "votenum": "14386",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc624\uc11d\ubcf4",
-            "voterate": "7.63",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "14386",
+            "voterate": "7.63"
           },
           {
-            "votenum": "31167",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc724\uc7ac\uba85",
-            "voterate": "16.54",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "31167",
+            "voterate": "16.54"
           },
           {
-            "votenum": "28244",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uc120\ub3d9",
-            "voterate": "14.99",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "28244",
+            "voterate": "14.99"
           },
           {
-            "votenum": "3237",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uc815\ucc44",
-            "voterate": "1.71",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "3237",
+            "voterate": "1.71"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ucd5c\uc218\uc601",
+            "votenum": "8947",
+            "voterate": "4.75"
           }
-        ]
+        ],
+        "undervotes": "3020",
+        "blank_ballots": "36941",
+        "cand_no": 7,
+        "assembly_no": 10
       },
       {
         "counted_votes": "115618",
-        "cand_no": 6,
         "electorates": "136604",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "113508",
         "district": "\uc804\ub0a8 \uc81c9\uc120\uac70\uad6c",
-        "undervotes": "2110",
-        "blank_ballots": "20986",
         "result": [
           {
-            "votenum": "28862",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uae40\ubd09\ud638",
-            "voterate": "25.42",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "28862",
+            "voterate": "25.42"
           },
           {
-            "votenum": "22730",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc724\ucca0\ud558",
-            "voterate": "20.02",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "22730",
+            "voterate": "20.02"
           },
           {
-            "votenum": "3612",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\ubc15\ubb38\uc218",
-            "voterate": "3.18",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "3612",
+            "voterate": "3.18"
           },
           {
-            "votenum": "9202",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc131\uc790",
-            "voterate": "8.10",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "9202",
+            "voterate": "8.10"
           },
           {
-            "votenum": "18534",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubc15\uadc0\uc218",
-            "voterate": "16.32",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "18534",
+            "voterate": "16.32"
           },
           {
-            "votenum": "3396",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uc775\uade0",
-            "voterate": "2.99",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "3396",
+            "voterate": "2.99"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc784\uc601\ub4dd",
+            "votenum": "27172",
+            "voterate": "23.93"
           }
-        ]
+        ],
+        "undervotes": "2110",
+        "blank_ballots": "20986",
+        "cand_no": 7,
+        "assembly_no": 10
       },
       {
         "counted_votes": "143679",
-        "cand_no": 3,
         "electorates": "170313",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "141014",
         "district": "\uc804\ub0a8 \uc81c10\uc120\uac70\uad6c",
-        "undervotes": "2665",
-        "blank_ballots": "26634",
         "result": [
           {
-            "votenum": "60339",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uae40\uc7ac\uc2dd",
-            "voterate": "42.78",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "60339",
+            "voterate": "42.78"
           },
           {
-            "votenum": "37723",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc774\uc9c4\uc5f0",
-            "voterate": "26.75",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "37723",
+            "voterate": "26.75"
           },
           {
-            "votenum": "37531",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc870\uae30\uc0c1",
-            "voterate": "26.61",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "37531",
+            "voterate": "26.61"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uae40\uc5f0\uad00",
+            "votenum": "5421",
+            "voterate": "3.84"
           }
-        ]
+        ],
+        "undervotes": "2665",
+        "blank_ballots": "26634",
+        "cand_no": 4,
+        "assembly_no": 10
       },
       {
         "counted_votes": "271518",
-        "cand_no": 3,
         "electorates": "362518",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "268176",
         "district": "\uacbd\ubd81 \uc81c1\uc120\uac70\uad6c",
-        "undervotes": "3342",
-        "blank_ballots": "91000",
         "result": [
           {
-            "votenum": "66598",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc774\ub9cc\uc12d",
-            "voterate": "24.83",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "66598",
+            "voterate": "24.83"
           },
           {
-            "votenum": "55190",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc870\uc77c\ud658",
-            "voterate": "20.57",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "55190",
+            "voterate": "20.57"
           },
           {
-            "votenum": "17578",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc774\uc885\uc12d",
-            "voterate": "6.55",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "17578",
+            "voterate": "6.55"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ud55c\ubcd1\ucc44",
+            "votenum": "128810",
+            "voterate": "48.03"
           }
-        ]
+        ],
+        "undervotes": "3342",
+        "blank_ballots": "91000",
+        "cand_no": 4,
+        "assembly_no": 10
       },
       {
         "counted_votes": "292019",
-        "cand_no": 6,
         "electorates": "392180",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "288540",
         "district": "\uacbd\ubd81 \uc81c2\uc120\uac70\uad6c",
-        "undervotes": "3479",
-        "blank_ballots": "100161",
         "result": [
           {
-            "votenum": "79299",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc774\ud6a8\uc0c1",
-            "voterate": "27.48",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "79299",
+            "voterate": "27.48"
           },
           {
-            "votenum": "67625",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc2e0\ub3c4\ud658",
-            "voterate": "23.43",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "67625",
+            "voterate": "23.43"
           },
           {
-            "votenum": "8810",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc724\uc601\ud55c",
-            "voterate": "3.05",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "8810",
+            "voterate": "3.05"
           },
           {
-            "votenum": "29268",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubb38  \uc591",
-            "voterate": "10.14",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "29268",
+            "voterate": "10.14"
           },
           {
-            "votenum": "44962",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc2e0\uc9c4\uc6b1",
-            "voterate": "15.58",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "44962",
+            "voterate": "15.58"
           },
           {
-            "votenum": "48776",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uce58\ud638",
-            "voterate": "16.90",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "48776",
+            "voterate": "16.90"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc870\ud654\ud615",
+            "votenum": "9800",
+            "voterate": "3.39"
           }
-        ]
+        ],
+        "undervotes": "3479",
+        "blank_ballots": "100161",
+        "cand_no": 7,
+        "assembly_no": 10
       },
       {
         "counted_votes": "231101",
-        "cand_no": 5,
         "electorates": "301320",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "228346",
         "district": "\uacbd\ubd81 \uc81c3\uc120\uac70\uad6c",
-        "undervotes": "2755",
-        "blank_ballots": "70219",
         "result": [
           {
-            "votenum": "48781",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc815\ubb34\uc2dd",
-            "voterate": "21.36",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "48781",
+            "voterate": "21.36"
           },
           {
-            "votenum": "66868",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc870\uaddc\ucc3d",
-            "voterate": "29.28",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "66868",
+            "voterate": "29.28"
           },
           {
-            "votenum": "16490",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc548\ubcd1\ub2ec",
-            "voterate": "7.22",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "16490",
+            "voterate": "7.22"
           },
           {
-            "votenum": "73560",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uad8c\uc624\ud0dc",
-            "voterate": "32.21",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "73560",
+            "voterate": "32.21"
           },
           {
-            "votenum": "14148",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\ubcd1\uc218",
-            "voterate": "6.19",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "14148",
+            "voterate": "6.19"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uae40\uc0c1\uc21c",
+            "votenum": "8499",
+            "voterate": "3.72"
           }
-        ]
+        ],
+        "undervotes": "2755",
+        "blank_ballots": "70219",
+        "cand_no": 6,
+        "assembly_no": 10
       },
       {
         "counted_votes": "171932",
-        "cand_no": 8,
         "electorates": "211637",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "170087",
         "district": "\uacbd\ubd81 \uc81c4\uc120\uac70\uad6c",
-        "undervotes": "1845",
-        "blank_ballots": "39705",
         "result": [
           {
-            "votenum": "38181",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ubc15\uc219\ud604",
-            "voterate": "22.44",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "38181",
+            "voterate": "22.44"
           },
           {
-            "votenum": "30656",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ubc15\uad8c\ud760",
-            "voterate": "18.02",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "30656",
+            "voterate": "18.02"
           },
           {
-            "votenum": "10619",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\ub355\uc218",
-            "voterate": "6.24",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "10619",
+            "voterate": "6.24"
           },
           {
-            "votenum": "13898",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubc31\uc218\uadfc",
-            "voterate": "8.17",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "13898",
+            "voterate": "8.17"
           },
           {
-            "votenum": "21202",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uc601\ud45c",
-            "voterate": "12.46",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "21202",
+            "voterate": "12.46"
           },
           {
-            "votenum": "18300",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc784\uc9c4\ucd9c",
-            "voterate": "10.75",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "18300",
+            "voterate": "10.75"
           },
           {
-            "votenum": "10053",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc8fc\uc9c4\ud3ec",
-            "voterate": "5.91",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "10053",
+            "voterate": "5.91"
           },
           {
-            "votenum": "22637",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ucd5c  \ud48d",
-            "voterate": "13.30",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "22637",
+            "voterate": "13.30"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ud669\ud55c\uc218",
+            "votenum": "4541",
+            "voterate": "2.66"
           }
-        ]
+        ],
+        "undervotes": "1845",
+        "blank_ballots": "39705",
+        "cand_no": 9,
+        "assembly_no": 10
       },
       {
         "counted_votes": "182755",
-        "cand_no": 6,
         "electorates": "215764",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "180646",
         "district": "\uacbd\ubd81 \uc81c5\uc120\uac70\uad6c",
-        "undervotes": "2109",
-        "blank_ballots": "33009",
         "result": [
           {
-            "votenum": "35200",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ubc31\ub0a8\uc5b5",
-            "voterate": "19.48",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "35200",
+            "voterate": "19.48"
           },
           {
-            "votenum": "15113",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc774\uae30\ud55c",
-            "voterate": "8.36",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "15113",
+            "voterate": "8.36"
           },
           {
-            "votenum": "5586",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc784\uc7ac\uc601",
-            "voterate": "3.09",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "5586",
+            "voterate": "3.09"
           },
           {
-            "votenum": "32126",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc724\ud558",
-            "voterate": "17.78",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "32126",
+            "voterate": "17.78"
           },
           {
-            "votenum": "43319",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubc15\uc815\uc218",
-            "voterate": "23.98",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "43319",
+            "voterate": "23.98"
           },
           {
-            "votenum": "6825",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uc7ac\uc625",
-            "voterate": "3.77",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "6825",
+            "voterate": "3.77"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc815\ud718\ub3d9",
+            "votenum": "42477",
+            "voterate": "23.51"
           }
-        ]
+        ],
+        "undervotes": "2109",
+        "blank_ballots": "33009",
+        "cand_no": 7,
+        "assembly_no": 10
       },
       {
         "counted_votes": "175560",
-        "cand_no": 5,
         "electorates": "216900",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "173170",
         "district": "\uacbd\ubd81 \uc81c6\uc120\uac70\uad6c",
-        "undervotes": "2390",
-        "blank_ballots": "41340",
         "result": [
           {
-            "votenum": "52662",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uae40\uc0c1\ub144",
-            "voterate": "30.41",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "52662",
+            "voterate": "30.41"
           },
           {
-            "votenum": "47776",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ubc15\ud574\ucda9",
-            "voterate": "27.58",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "47776",
+            "voterate": "27.58"
           },
           {
-            "votenum": "4231",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uad8c\ud0dc\uc778",
-            "voterate": "2.44",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "4231",
+            "voterate": "2.44"
           },
           {
-            "votenum": "38226",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uad8c\uc624\ud6c8",
-            "voterate": "22.07",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "38226",
+            "voterate": "22.07"
           },
           {
-            "votenum": "8947",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc2e0\uc601\ubaa9",
-            "voterate": "5.16",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "8947",
+            "voterate": "5.16"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc624\uc0c1\uc9c1",
+            "votenum": "21328",
+            "voterate": "12.31"
           }
-        ]
+        ],
+        "undervotes": "2390",
+        "blank_ballots": "41340",
+        "cand_no": 6,
+        "assembly_no": 10
       },
       {
         "counted_votes": "185267",
-        "cand_no": 6,
         "electorates": "222097",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "182972",
         "district": "\uacbd\ubd81 \uc81c7\uc120\uac70\uad6c",
-        "undervotes": "2295",
-        "blank_ballots": "36830",
         "result": [
           {
-            "votenum": "56645",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc2e0\ud604\ud655",
-            "voterate": "30.95",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "56645",
+            "voterate": "30.95"
           },
           {
-            "votenum": "36483",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uae40\ucc3d\ud658",
-            "voterate": "19.93",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "36483",
+            "voterate": "19.93"
           },
           {
-            "votenum": "4671",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\ud0dc\uc2dd",
-            "voterate": "2.55",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "4671",
+            "voterate": "2.55"
           },
           {
-            "votenum": "49001",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\ud604\uaddc",
-            "voterate": "26.78",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "49001",
+            "voterate": "26.78"
           },
           {
-            "votenum": "14028",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc720\uc131\ud658",
-            "voterate": "7.66",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "14028",
+            "voterate": "7.66"
           },
           {
-            "votenum": "17070",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc7a5\ub355\ud658",
-            "voterate": "9.32",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "17070",
+            "voterate": "9.32"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc870\uc775\ud658",
+            "votenum": "5074",
+            "voterate": "2.77"
           }
-        ]
+        ],
+        "undervotes": "2295",
+        "blank_ballots": "36830",
+        "cand_no": 7,
+        "assembly_no": 10
       },
       {
         "counted_votes": "164909",
-        "cand_no": 3,
         "electorates": "210502",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "158997",
         "district": "\uacbd\ubd81 \uc81c8\uc120\uac70\uad6c",
-        "undervotes": "5912",
-        "blank_ballots": "45593",
         "result": [
           {
-            "votenum": "57526",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ubc15\uc900\uaddc",
-            "voterate": "36.18",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "57526",
+            "voterate": "36.18"
           },
           {
-            "votenum": "47617",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uae40\uc885\uae30",
-            "voterate": "29.94",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "47617",
+            "voterate": "29.94"
           },
           {
-            "votenum": "0",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubc15\uc8fc\ud604",
-            "voterate": "0.00",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "0",
+            "voterate": "0.00"
+          },
+          {
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
+            "name_kr": "\uc774\uc7ac\uc5f0",
+            "votenum": "30341",
+            "voterate": "19.08"
           }
-        ]
+        ],
+        "undervotes": "5912",
+        "blank_ballots": "45593",
+        "cand_no": 4,
+        "assembly_no": 10
       },
       {
         "counted_votes": "118752",
-        "cand_no": 6,
         "electorates": "139102",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "117133",
         "district": "\uacbd\ubd81 \uc81c9\uc120\uac70\uad6c",
-        "undervotes": "1619",
-        "blank_ballots": "20350",
         "result": [
           {
-            "votenum": "30131",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ubb38\ud0dc\uc900",
-            "voterate": "25.72",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "30131",
+            "voterate": "25.72"
           },
           {
-            "votenum": "29169",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ud669\ubcd1\uc6b0",
-            "voterate": "24.90",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "29169",
+            "voterate": "24.90"
           },
           {
-            "votenum": "5044",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc190\ubcd1\uc6b0",
-            "voterate": "4.30",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "5044",
+            "voterate": "4.30"
           },
           {
-            "votenum": "20648",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\ub3d9\ud654",
-            "voterate": "17.62",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "20648",
+            "voterate": "17.62"
           },
           {
-            "votenum": "3011",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc7a5\uc18c\ud0dd",
-            "voterate": "2.57",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "3011",
+            "voterate": "2.57"
           },
           {
-            "votenum": "12294",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc8fc\uc0c1\uc0bc",
-            "voterate": "10.49",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "12294",
+            "voterate": "10.49"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ucd5c\uc21c\uc5f4",
+            "votenum": "16836",
+            "voterate": "14.37"
           }
-        ]
+        ],
+        "undervotes": "1619",
+        "blank_ballots": "20350",
+        "cand_no": 7,
+        "assembly_no": 10
       },
       {
         "counted_votes": "139275",
-        "cand_no": 4,
         "electorates": "164818",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "137489",
         "district": "\uacbd\ubd81 \uc81c10\uc120\uac70\uad6c",
-        "undervotes": "1786",
-        "blank_ballots": "25543",
         "result": [
           {
-            "votenum": "59768",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uae40\ucc3d\uadfc",
-            "voterate": "43.47",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "59768",
+            "voterate": "43.47"
           },
           {
-            "votenum": "38291",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ubc15\uc6a9\ub9cc",
-            "voterate": "27.85",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "38291",
+            "voterate": "27.85"
           },
           {
-            "votenum": "7497",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc6b0\uc131\uad6c",
-            "voterate": "5.45",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "7497",
+            "voterate": "5.45"
           },
           {
-            "votenum": "8443",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc548\uc6a9\ud658",
-            "voterate": "6.14",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "8443",
+            "voterate": "6.14"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc815\ud0dc\uc911",
+            "votenum": "23490",
+            "voterate": "17.08"
           }
-        ]
+        ],
+        "undervotes": "1786",
+        "blank_ballots": "25543",
+        "cand_no": 5,
+        "assembly_no": 10
       },
       {
         "counted_votes": "124811",
-        "cand_no": 4,
         "electorates": "147749",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "123039",
         "district": "\uacbd\ubd81 \uc81c11\uc120\uac70\uad6c",
-        "undervotes": "1772",
-        "blank_ballots": "22938",
         "result": [
           {
-            "votenum": "39380",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uad6c\ubc94\ubaa8",
-            "voterate": "32.00",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "39380",
+            "voterate": "32.00"
           },
           {
-            "votenum": "43237",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ucc44\ubb38\uc2dd",
-            "voterate": "35.14",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "43237",
+            "voterate": "35.14"
           },
           {
-            "votenum": "15431",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubc18\ud615\uc2dd",
-            "voterate": "12.54",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "15431",
+            "voterate": "12.54"
           },
           {
-            "votenum": "20509",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ud604\uc11d\uc8fc",
-            "voterate": "16.66",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "20509",
+            "voterate": "16.66"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ud669\ubcd1\ud638",
+            "votenum": "4482",
+            "voterate": "3.64"
           }
-        ]
+        ],
+        "undervotes": "1772",
+        "blank_ballots": "22938",
+        "cand_no": 5,
+        "assembly_no": 10
       },
       {
         "counted_votes": "255112",
-        "cand_no": 3,
         "electorates": "319077",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "251777",
         "district": "\uacbd\ub0a8 \uc81c1\uc120\uac70\uad6c",
-        "undervotes": "3335",
-        "blank_ballots": "63965",
         "result": [
           {
-            "votenum": "99031",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ubc15\uc885\uaddc",
-            "voterate": "39.33",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "99031",
+            "voterate": "39.33"
           },
           {
-            "votenum": "91844",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ud669\ub099\uc8fc",
-            "voterate": "36.47",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "91844",
+            "voterate": "36.47"
           },
           {
-            "votenum": "15291",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc131\uc11d",
-            "voterate": "6.07",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "15291",
+            "voterate": "6.07"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc870\uc815\uc81c",
+            "votenum": "45611",
+            "voterate": "18.11"
           }
-        ]
+        ],
+        "undervotes": "3335",
+        "blank_ballots": "63965",
+        "cand_no": 4,
+        "assembly_no": 10
       },
       {
         "counted_votes": "177013",
-        "cand_no": 7,
         "electorates": "207908",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "174615",
         "district": "\uacbd\ub0a8 \uc81c2\uc120\uac70\uad6c",
-        "undervotes": "2398",
-        "blank_ballots": "30895",
         "result": [
           {
-            "votenum": "48117",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uad6c\ud0dc\ud68c",
-            "voterate": "27.55",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "48117",
+            "voterate": "27.55"
           },
           {
-            "votenum": "20849",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc815\ud5cc\uc8fc",
-            "voterate": "11.93",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "20849",
+            "voterate": "11.93"
           },
           {
-            "votenum": "6889",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\ubc15\uc601\uc2dd",
-            "voterate": "3.94",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "6889",
+            "voterate": "3.94"
           },
           {
-            "votenum": "28218",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc548\ubcd1\uaddc",
-            "voterate": "16.16",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "28218",
+            "voterate": "16.16"
           },
           {
-            "votenum": "31181",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uc0c1\uce58",
-            "voterate": "17.85",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "31181",
+            "voterate": "17.85"
           },
           {
-            "votenum": "22699",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uc704\ud0dc",
-            "voterate": "12.99",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "22699",
+            "voterate": "12.99"
           },
           {
-            "votenum": "8308",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\ud765\uc218",
-            "voterate": "4.75",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "8308",
+            "voterate": "4.75"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ucd5c\uc778\uc218",
+            "votenum": "8354",
+            "voterate": "4.78"
           }
-        ]
+        ],
+        "undervotes": "2398",
+        "blank_ballots": "30895",
+        "cand_no": 8,
+        "assembly_no": 10
       },
       {
         "counted_votes": "153055",
-        "cand_no": 6,
         "electorates": "180767",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "150578",
         "district": "\uacbd\ub0a8 \uc81c3\uc120\uac70\uad6c",
-        "undervotes": "2477",
-        "blank_ballots": "27712",
         "result": [
           {
-            "votenum": "55045",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ucd5c\uc7ac\uad6c",
-            "voterate": "36.55",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "55045",
+            "voterate": "36.55"
           },
           {
-            "votenum": "31800",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uae40\ub3d9\uc6b1",
-            "voterate": "21.11",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "31800",
+            "voterate": "21.11"
           },
           {
-            "votenum": "7689",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uacf5\ud558\uc885",
-            "voterate": "5.10",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "7689",
+            "voterate": "5.10"
           },
           {
-            "votenum": "29129",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\ubd09\uc870",
-            "voterate": "19.34",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "29129",
+            "voterate": "19.34"
           },
           {
-            "votenum": "3237",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc601\ucca0",
-            "voterate": "2.14",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "3237",
+            "voterate": "2.14"
           },
           {
-            "votenum": "2669",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc724\ubcd1\uacc4",
-            "voterate": "1.77",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "2669",
+            "voterate": "1.77"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc774\uac11\uc601",
+            "votenum": "21009",
+            "voterate": "13.95"
           }
-        ]
+        ],
+        "undervotes": "2477",
+        "blank_ballots": "27712",
+        "cand_no": 7,
+        "assembly_no": 10
       },
       {
         "counted_votes": "203329",
-        "cand_no": 4,
         "electorates": "257773",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "201522",
         "district": "\uacbd\ub0a8 \uc81c4\uc120\uac70\uad6c",
-        "undervotes": "1807",
-        "blank_ballots": "54444",
         "result": [
           {
-            "votenum": "21365",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc11c\uc601\uc218",
-            "voterate": "10.60",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "21365",
+            "voterate": "10.60"
           },
           {
-            "votenum": "62237",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ucd5c\ud615\uc6b0",
-            "voterate": "30.88",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "62237",
+            "voterate": "30.88"
           },
           {
-            "votenum": "6796",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc7ac\ud604",
-            "voterate": "3.37",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "6796",
+            "voterate": "3.37"
           },
           {
-            "votenum": "13731",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uaddc\uc815",
-            "voterate": "6.81",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "13731",
+            "voterate": "6.81"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc774\ud6c4\ub77d",
+            "votenum": "97393",
+            "voterate": "48.32"
           }
-        ]
+        ],
+        "undervotes": "1807",
+        "blank_ballots": "54444",
+        "cand_no": 5,
+        "assembly_no": 10
       },
       {
         "counted_votes": "132244",
-        "cand_no": 5,
         "electorates": "158902",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "130325",
         "district": "\uacbd\ub0a8 \uc81c5\uc120\uac70\uad6c",
-        "undervotes": "1919",
-        "blank_ballots": "26658",
         "result": [
           {
-            "votenum": "39160",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uae40\uc0c1\uc11d",
-            "voterate": "30.04",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "39160",
+            "voterate": "30.04"
           },
           {
-            "votenum": "32489",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc774\uc0c1\uc2e0",
-            "voterate": "24.92",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "32489",
+            "voterate": "24.92"
           },
           {
-            "votenum": "3645",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc774\uc911\uad6c",
-            "voterate": "2.79",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "3645",
+            "voterate": "2.79"
           },
           {
-            "votenum": "25026",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uad8c\ud574\uc625",
-            "voterate": "19.20",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "25026",
+            "voterate": "19.20"
           },
           {
-            "votenum": "8008",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc7ac\ud604",
-            "voterate": "6.14",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "8008",
+            "voterate": "6.14"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uae40\ucc3d\uc6b1",
+            "votenum": "21997",
+            "voterate": "16.87"
           }
-        ]
+        ],
+        "undervotes": "1919",
+        "blank_ballots": "26658",
+        "cand_no": 6,
+        "assembly_no": 10
       },
       {
         "counted_votes": "135843",
-        "cand_no": 6,
         "electorates": "158585",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "134451",
         "district": "\uacbd\ub0a8 \uc81c6\uc120\uac70\uad6c",
-        "undervotes": "1392",
-        "blank_ballots": "22742",
         "result": [
           {
-            "votenum": "30011",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ud558\ub300\ub3c8",
-            "voterate": "22.32",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "30011",
+            "voterate": "22.32"
           },
           {
-            "votenum": "35964",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ubc15  \uc77c",
-            "voterate": "26.74",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "35964",
+            "voterate": "26.74"
           },
           {
-            "votenum": "26663",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uacf5\uc815\uc2dd",
-            "voterate": "19.83",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "26663",
+            "voterate": "19.83"
           },
           {
-            "votenum": "5949",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\uc815\uc218",
-            "voterate": "4.42",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "5949",
+            "voterate": "4.42"
           },
           {
-            "votenum": "12911",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc2e0\uc7ac\uae30",
-            "voterate": "9.60",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "12911",
+            "voterate": "9.60"
           },
           {
-            "votenum": "19807",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc2e0\ud654\uc2dd",
-            "voterate": "14.73",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "19807",
+            "voterate": "14.73"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc870\uc6a9\ud559",
+            "votenum": "3146",
+            "voterate": "2.33"
           }
-        ]
+        ],
+        "undervotes": "1392",
+        "blank_ballots": "22742",
+        "cand_no": 7,
+        "assembly_no": 10
       },
       {
         "counted_votes": "132092",
-        "cand_no": 6,
         "electorates": "160512",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "130319",
         "district": "\uacbd\ub0a8 \uc81c7\uc120\uac70\uad6c",
-        "undervotes": "1773",
-        "blank_ballots": "28420",
         "result": [
           {
-            "votenum": "68324",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uae40\ud0dd\uc218",
-            "voterate": "52.42",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "68324",
+            "voterate": "52.42"
           },
           {
-            "votenum": "38343",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc2e0\uc0c1\uc6b0",
-            "voterate": "29.42",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "38343",
+            "voterate": "29.42"
           },
           {
-            "votenum": "2633",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uae40\ucc3d\ubb34",
-            "voterate": "2.02",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "2633",
+            "voterate": "2.02"
           },
           {
-            "votenum": "13771",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uae40\ub3d9\uc8fc",
-            "voterate": "10.56",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "13771",
+            "voterate": "10.56"
           },
           {
-            "votenum": "1022",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubbfc\ubcd1\uc9c4",
-            "voterate": "0.78",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "1022",
+            "voterate": "0.78"
           },
           {
-            "votenum": "3354",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc724\ubcf5\uc601",
-            "voterate": "2.57",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "3354",
+            "voterate": "2.57"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc774\uae08\uc870",
+            "votenum": "2872",
+            "voterate": "2.20"
           }
-        ]
+        ],
+        "undervotes": "1773",
+        "blank_ballots": "28420",
+        "cand_no": 7,
+        "assembly_no": 10
       },
       {
         "counted_votes": "97334",
-        "cand_no": 5,
         "electorates": "110728",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "96125",
         "district": "\uacbd\ub0a8 \uc81c8\uc120\uac70\uad6c",
-        "undervotes": "1209",
-        "blank_ballots": "13394",
         "result": [
           {
-            "votenum": "31118",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\uc2e0\ub3d9\uad00",
-            "voterate": "32.37",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "31118",
+            "voterate": "32.37"
           },
           {
-            "votenum": "19851",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\ubb38\ubd80\uc2dd",
-            "voterate": "20.65",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "19851",
+            "voterate": "20.65"
           },
           {
-            "votenum": "4025",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uac15\uc0c1\uc218",
-            "voterate": "4.18",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "4025",
+            "voterate": "4.18"
           },
           {
-            "votenum": "12681",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uc774\uc218\uc885",
-            "voterate": "13.19",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "12681",
+            "voterate": "13.19"
           },
           {
-            "votenum": "2473",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ucd5c\uc885\ud0dc",
-            "voterate": "2.57",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "2473",
+            "voterate": "2.57"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\ucd5c\uce58\ud658",
+            "votenum": "25977",
+            "voterate": "27.02"
           }
-        ]
+        ],
+        "undervotes": "1209",
+        "blank_ballots": "13394",
+        "cand_no": 6,
+        "assembly_no": 10
       },
       {
         "counted_votes": "125411",
-        "cand_no": 3,
         "electorates": "144006",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "123646",
         "district": "\uacbd\ub0a8 \uc81c9\uc120\uac70\uad6c",
-        "undervotes": "1765",
-        "blank_ballots": "18595",
         "result": [
           {
-            "votenum": "41555",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ub178\uc778\ud658",
-            "voterate": "33.60",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "41555",
+            "voterate": "33.60"
           },
           {
-            "votenum": "39766",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uae40\ub3d9\uc601",
-            "voterate": "32.16",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "39766",
+            "voterate": "32.16"
           },
           {
-            "votenum": "20771",
+            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9",
             "name_kr": "\uc815\uc601\ubaa8",
-            "voterate": "16.79",
-            "party_name_kr": "\ubbfc\uc8fc\ud1b5\uc77c\ub2f9"
+            "votenum": "20771",
+            "voterate": "16.79"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc784\ucc44\ud64d",
+            "votenum": "21554",
+            "voterate": "17.43"
           }
-        ]
+        ],
+        "undervotes": "1765",
+        "blank_ballots": "18595",
+        "cand_no": 4,
+        "assembly_no": 10
       },
       {
         "counted_votes": "187526",
-        "cand_no": 5,
         "electorates": "212035",
-        "assembly_no": 10,
-        "valid_votes": "\uacc4",
+        "valid_votes": "184716",
         "district": "\uc81c\uc8fc \uc81c\uc8fc\ub3c4\uc120\uac70\uad6c",
-        "undervotes": "2810",
-        "blank_ballots": "24509",
         "result": [
           {
-            "votenum": "44229",
+            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9",
             "name_kr": "\ud604\uc624\ubd09",
-            "voterate": "23.94",
-            "party_name_kr": "\ubbfc\uc8fc\uacf5\ud654\ub2f9"
+            "votenum": "44229",
+            "voterate": "23.94"
           },
           {
-            "votenum": "16294",
+            "party_name_kr": "\uc2e0\ubbfc\ub2f9",
             "name_kr": "\uc624\uc815\ubcf4",
-            "voterate": "8.82",
-            "party_name_kr": "\uc2e0\ubbfc\ub2f9"
+            "votenum": "16294",
+            "voterate": "8.82"
           },
           {
-            "votenum": "15013",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\uace0\ud55c\uc900",
-            "voterate": "8.12",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "15013",
+            "voterate": "8.12"
           },
           {
-            "votenum": "41805",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubcc0\uc815\uc77c",
-            "voterate": "22.63",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "41805",
+            "voterate": "22.63"
           },
           {
-            "votenum": "26841",
+            "party_name_kr": "\ubb34\uc18c\uc18d",
             "name_kr": "\ubd80\uccad\ud558",
-            "voterate": "14.53",
-            "party_name_kr": "\ubb34\uc18c\uc18d"
+            "votenum": "26841",
+            "voterate": "14.53"
+          },
+          {
+            "party_name_kr": "\ubb34\uc18c\uc18d",
+            "name_kr": "\uc591\uc815\uaddc",
+            "votenum": "40534",
+            "voterate": "21.94"
           }
-        ]
+        ],
+        "undervotes": "2810",
+        "blank_ballots": "24509",
+        "cand_no": 6,
+        "assembly_no": 10
       }
-    ]
+    ],
+    "voting_system": "constituency"
   }
 ]
