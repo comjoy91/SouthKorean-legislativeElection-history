@@ -233,6 +233,8 @@ class MultiCityCrawler(BaseCrawler):
 			voting_system = "proportional"
 		else:
 			voting_system = "constituency"
+
+		print("Waiting to connect http://info.nec.go.kr server (%s)..." % voting_system)
 		for city_code, city_name in self.city_codes():
 			req_url = self.url_list(city_code)
 			job = gevent.spawn(self.parse, req_url, is_proportional, city_name)

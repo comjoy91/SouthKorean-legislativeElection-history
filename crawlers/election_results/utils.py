@@ -6,7 +6,9 @@ import itertools
 import json
 import os
 import re
-import urllib.request, urllib.error, urllib.parse
+import urllib.request
+import requests
+from time import sleep
 
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) "\
             "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
@@ -29,22 +31,33 @@ def flatten(rarray):
     return list(itertools.chain.from_iterable(rarray))
 
 def get_json(url):
+    """
     request = urllib.request.Request(url)
     request.add_header("User-Agent", USER_AGENT)
     f = urllib.request.urlopen(request)
     txt = f.read().decode('UTF-8')
+    return json.loads(txt)
+    """
+    sleep(0.08)
+    r = requests.get(url, timeout = 10)
+    txt = r.text
     return json.loads(txt)
 
 def get_xpath(url, xpath):
     htmlparser = html5lib.HTMLParser(\
             tree=html5lib.treebuilders.getTreeBuilder("lxml"),\
             namespaceHTMLElements=False)
-
+    """
     request = urllib.request.Request(url)
     request.add_header("User-Agent", USER_AGENT)
-    f = urllib.request.urlopen(request, timeout = 60)
+    f = urllib.request.urlopen(request)
 
     page = htmlparser.parse(f)
+    return page.xpath(xpath)
+    """
+    sleep(0.08)
+    r = requests.get(url, timeout=30)
+    page = htmlparser.parse(r.content)
     return page.xpath(xpath)
 
 def parse_cell(node):
