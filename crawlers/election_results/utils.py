@@ -9,6 +9,7 @@ import re
 import urllib.request
 import requests
 from time import sleep
+from lxml import etree
 
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) "\
             "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
@@ -38,15 +39,17 @@ def get_json(url):
     txt = f.read().decode('UTF-8')
     return json.loads(txt)
     """
-    sleep(0.08)
+    sleep(0.05)
     r = requests.get(url, timeout = 10)
     txt = r.text
     return json.loads(txt)
 
 def get_xpath(url, xpath):
+    """
     htmlparser = html5lib.HTMLParser(\
             tree=html5lib.treebuilders.getTreeBuilder("lxml"),\
             namespaceHTMLElements=False)
+    """
     """
     request = urllib.request.Request(url)
     request.add_header("User-Agent", USER_AGENT)
@@ -55,10 +58,17 @@ def get_xpath(url, xpath):
     page = htmlparser.parse(f)
     return page.xpath(xpath)
     """
+    """
     sleep(0.08)
     r = requests.get(url, timeout=30)
     page = htmlparser.parse(r.content)
     return page.xpath(xpath)
+    """
+    sleep(0.075)
+    htmlparser = etree.HTMLParser()
+    page = etree.parse(url, htmlparser)
+    return page.xpath(xpath)
+
 
 def parse_cell(node):
     arr = _parse_cell(node)
